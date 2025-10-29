@@ -1,3 +1,3 @@
-Advertising Options Available.
+The Road Report provides a live, refreshable image feed of the Mountain Parkway, offering travelers a real-time view of current road and weather conditions. Designed to keep visitors informed before they even begin their trip, the report automatically updates to deliver the most recent snapshot available.
 
-All advertising is free for now though tips are greatly appreciated and helps support the backend services needed to keep the app running and connected.
+Once fully launched, the Road Report will expand to include detailed traffic updates, weather alerts, and maintenance notices—offering a clear, reliable overview of travel conditions throughout the Red River Gorge region.
