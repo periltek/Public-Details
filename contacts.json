@@ -1,7 +1,7 @@
 {
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/yourrepo/contacts.json",
-        "fallbackUrl": "https://backup.example.com/contacts.json",
+        "fallbackUrl": "https://raw.githubusercontent.com/yourrepo/contacts.json",
         "lastUpdated": "2025-11-06T05:34:27Z"
     },
     "contacts": [
