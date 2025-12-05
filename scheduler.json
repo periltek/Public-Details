@@ -1,7 +1,7 @@
 {
     "meta": {
         "source": "The Red Developer",
-        "timestamp": "2025-12-05T02:59:54.2505475Z",
+        "timestamp": "2025-12-05T03:01:52.8859466Z",
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/scheduler.json",
         "fallbackUrl": ""
     },
@@ -43,7 +43,7 @@
         {
             "EventName": "Woolly Worm Festival",
             "EventDescription": "A Fall festival rooted in the hills of Beattyville since 1988 that celebrates the winter lore of the Woolly Worm and local traditions that surround it.\t",
-            "EventCategory": "NotSpecified",
+            "EventCategory": "NextYear",
             "push": false,
             "Day": "",
             "Time": "",
