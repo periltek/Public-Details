@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "source": "",
+        "timestamp": "2025-12-04T03:28:18.6802298Z",
+        "primaryUrl": "",
+        "fallbackUrl": ""
+    },
+    "locations": [
+        {
+            "LocationName": "Estill Steam Furnace",
+            "Description": "Historic blast furnace located in Ravenna, Kentucky, constructed in 1829 by Thomas Owings. Unlike the more common hydro-powered furnaces of the era, this site was distinctive for its pioneering use of steam technology, marking an early innovation in industrial development.",
+            "Category": "HistoricSites",
+            "Address": "Billings Cemetery Rd, Ravenna, KY 40472",
+            "GPS": "37.76176004843707, -83.83287983917113",
+            "Activities": "",
+            "MoreInfo": "",
+            "Status": "",
+            "URL": "",
+            "imgLinks": []
+        }
+    ]
+}
