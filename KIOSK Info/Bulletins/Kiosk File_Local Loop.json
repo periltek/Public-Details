@@ -1,20 +1,32 @@
 {
     "meta": {
-        "primaryUrl": "",
+        "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Local%20Loop.json",
         "fallbackUrl": "",
-        "lastUpdated": "2025-12-08T20:10:03Z"
+        "lastUpdated": "2025-12-09T18:17:31Z"
     },
     "kiosk": [
         {
-            "Title": "Test Kiosk Entry",
-            "Description": "Test",
-            "MoreInfo": "Test Kiosk Entry Only. Please dis-regard this test",
+            "Title": "Happy Holidays",
+            "Description": "We encourage safe and smart travel.",
+            "MoreInfo": "Remember to check weather reports along your route and destination before travelling so you know what to expect.",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "",
             "Website": "",
-            "SocialSite": "www.ko-fi.com/TheRedDeveloper",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "New Submissions",
+            "Description": "For those who want to submit new content.",
+            "MoreInfo": "Please refer to our services page or support site for more details",
+            "Phone": "",
+            "Address": "",
+            "Coords": "",
+            "Email": "",
+            "Website": "Ko-Fi.com/TheRedDeveloper",
+            "SocialSite": "",
             "ImageLinks": []
         }
     ]
