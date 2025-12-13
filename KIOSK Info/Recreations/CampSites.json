@@ -4,114 +4,126 @@
         "fallbackUrl": "",
         "lastUpdated": "2025-12-13T12:23:02Z"
     },
-    "kiosk": [
-        {
-            "Title": "Regulations For Camping",
-            "Description": "Connect to view the most recent camping regulations related to the RRG and D. B. National Forest",
-            "MoreInfo": "Connect to view the most recent camping regulations related to the RRG and D. B. National Forest",
-            "Phone": "",
-            "Address": "",
-            "Coords": "",
-            "Email": "AppSupport@RedRiverRecreations.com",
-            "Website": "https://www.fs.usda.gov/r08/danielboone/recreation/camping-cabins",
-            "SocialSite": "",
-            "ImageLinks": []
-        },
-        {
-            "Title": "Courthouse Rock Area",
-            "Description": "",
-            "MoreInfo": "",
-            "Phone": "",
-            "Address": "",
-            "Coords": "",
-            "Email": "",
-            "Website": "",
-            "SocialSite": "",
-            "ImageLinks": []
-        },
-        {
-            "Title": "Gray’s Arch Backcountry",
-            "Description": "",
-            "MoreInfo": "",
-            "Phone": "",
-            "Address": "",
-            "Coords": "",
-            "Email": "",
-            "Website": "",
-            "SocialSite": "",
-            "ImageLinks": []
-        },
-        {
-            "Title": "Hanson’s Point",
-            "Description": "",
-            "MoreInfo": "",
-            "Phone": "",
-            "Address": "",
-            "Coords": "",
-            "Email": "",
-            "Website": "",
-            "SocialSite": "",
-            "ImageLinks": []
-        },
-        {
-            "Title": "Indian Staircase Area",
-            "Description": "Moderate, unmarked trail",
-            "MoreInfo": "Moderate, unmarked trail",
-            "Phone": "",
-            "Address": "",
-            "Coords": "37.8500°N, 83.6160°W",
-            "Email": "",
-            "Website": "",
-            "SocialSite": "",
-            "ImageLinks": []
-        },
-        {
-            "Title": "Koomer Ridge Backcountry",
-            "Description": "Moderate, waterfall nearby ",
-            "MoreInfo": "Moderate, waterfall nearby ",
-            "Phone": "",
-            "Address": "",
-            "Coords": "37.7897°N, 83.5417°W",
-            "Email": "",
-            "Website": "",
-            "SocialSite": "",
-            "ImageLinks": []
-        },
-        {
-            "Title": "Chimney Top Creek Area",
-            "Description": "Moderate loop trail",
-            "MoreInfo": "Moderate loop trail",
-            "Phone": "",
-            "Address": "",
-            "Coords": "37.8200°N, 83.6400°W",
-            "Email": "",
-            "Website": "",
-            "SocialSite": "",
-            "ImageLinks": []
-        },
-        {
-            "Title": "Copperas Creek Area",
-            "Description": "Moderate, unmarked trail",
-            "MoreInfo": "Moderate, unmarked trail",
-            "Phone": "",
-            "Address": "",
-            "Coords": "37.8160°N, 83.5660°W ",
-            "Email": "",
-            "Website": "",
-            "SocialSite": "",
-            "ImageLinks": []
-        },
-        {
-            "Title": "Rock Bridge Area",
-            "Description": "Short, easy overlook hike",
-            "MoreInfo": "Short, easy overlook hike",
-            "Phone": "",
-            "Address": "",
-            "Coords": "37.8339°N, 83.6078°W",
-            "Email": "",
-            "Website": "",
-            "SocialSite": "",
-            "ImageLinks": []
-        }
-    ]
+  "kiosk": [
+    {
+      "Title": "More Updates Coming Soon...",
+      "Description": "",
+      "MoreInfo": "We apologize. We're still pulling together a mountain of resources and information. Every developer knows the deal with data entry ;)",
+      "Phone": "",
+      "Address": "",
+      "Coords": "",
+      "Email": "AppSupport@RedRiverRecreations.com",
+      "Website": "Ko-Fi.com/TheRedDeveloper",
+      "SocialSite": "",
+      "ImageLinks": []
+    },
+    {
+      "Title": "Regulations For Camping",
+      "Description": "Connect to view the most recent camping regulations related to the RRG and D. B. National Forest",
+      "MoreInfo": "Connect to view the most recent camping regulations related to the RRG and D. B. National Forest",
+      "Phone": "",
+      "Address": "",
+      "Coords": "",
+      "Email": "AppSupport@RedRiverRecreations.com",
+      "Website": "https://www.fs.usda.gov/r08/danielboone/recreation/camping-cabins",
+      "SocialSite": "",
+      "ImageLinks": []
+    },
+    {
+      "Title": "Courthouse Rock Area",
+      "Description": "",
+      "MoreInfo": "",
+      "Phone": "",
+      "Address": "",
+      "Coords": "",
+      "Email": "",
+      "Website": "",
+      "SocialSite": "",
+      "ImageLinks": []
+    },
+    {
+      "Title": "Gray’s Arch Backcountry",
+      "Description": "",
+      "MoreInfo": "",
+      "Phone": "",
+      "Address": "",
+      "Coords": "",
+      "Email": "",
+      "Website": "",
+      "SocialSite": "",
+      "ImageLinks": []
+    },
+    {
+      "Title": "Hanson’s Point",
+      "Description": "",
+      "MoreInfo": "",
+      "Phone": "",
+      "Address": "",
+      "Coords": "",
+      "Email": "",
+      "Website": "",
+      "SocialSite": "",
+      "ImageLinks": []
+    },
+    {
+      "Title": "Indian Staircase Area",
+      "Description": "Moderate, unmarked trail",
+      "MoreInfo": "Moderate, unmarked trail",
+      "Phone": "",
+      "Address": "",
+      "Coords": "37.8500°N, 83.6160°W",
+      "Email": "",
+      "Website": "",
+      "SocialSite": "",
+      "ImageLinks": []
+    },
+    {
+      "Title": "Koomer Ridge Backcountry",
+      "Description": "Moderate, waterfall nearby ",
+      "MoreInfo": "Moderate, waterfall nearby ",
+      "Phone": "",
+      "Address": "",
+      "Coords": "37.7897°N, 83.5417°W",
+      "Email": "",
+      "Website": "",
+      "SocialSite": "",
+      "ImageLinks": []
+    },
+    {
+      "Title": "Chimney Top Creek Area",
+      "Description": "Moderate loop trail",
+      "MoreInfo": "Moderate loop trail",
+      "Phone": "",
+      "Address": "",
+      "Coords": "37.8200°N, 83.6400°W",
+      "Email": "",
+      "Website": "",
+      "SocialSite": "",
+      "ImageLinks": []
+    },
+    {
+      "Title": "Copperas Creek Area",
+      "Description": "Moderate, unmarked trail",
+      "MoreInfo": "Moderate, unmarked trail",
+      "Phone": "",
+      "Address": "",
+      "Coords": "37.8160°N, 83.5660°W ",
+      "Email": "",
+      "Website": "",
+      "SocialSite": "",
+      "ImageLinks": []
+    },
+    {
+      "Title": "Rock Bridge Area",
+      "Description": "Short, easy overlook hike",
+      "MoreInfo": "Short, easy overlook hike",
+      "Phone": "",
+      "Address": "",
+      "Coords": "37.8339°N, 83.6078°W",
+      "Email": "",
+      "Website": "",
+      "SocialSite": "",
+      "ImageLinks": []
+    }
+  ]
 }

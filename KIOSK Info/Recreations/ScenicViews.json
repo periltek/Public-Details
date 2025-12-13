@@ -2,11 +2,11 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2025-12-13T12:50:44Z"
+        "lastUpdated": "2025-12-13T13:15:29Z"
     },
     "kiosk": [
         {
-            "Title": "Updates Coming Soon...",
+            "Title": "More Updates Coming Soon...",
             "Description": "",
             "MoreInfo": "We apologize. We're still pulling together a mountain of resources and information. Every developer knows the deal with data entry ;)",
             "Phone": "",
@@ -14,6 +14,102 @@
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "Ko-Fi.com/TheRedDeveloper",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Devil’s Canyon Overlook",
+            "Description": "panoramic Gorge views",
+            "MoreInfo": "Short walk from parking; panoramic Gorge views",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.8330°N, 83.6090°W ",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Swift Camp Creek Overlook",
+            "Description": "Roadside pull‑off",
+            "MoreInfo": "Roadside pull‑off with views down into creek",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.8500°N, 83.6000°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Chimney Top Overlook",
+            "Description": "Paved trail & overlook",
+            "MoreInfo": "Drive‑up with paved trail to overlook",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.8340°N, 83.6080°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Tunnel Ridge Road Pull‑Offs",
+            "Description": "Multiple roadside stops with sweeping vistas",
+            "MoreInfo": "Multiple roadside stops with sweeping vistas",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.8300°N, 83.6200°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Sky Bridge Picnic Area Overlook",
+            "Description": "Easy access near parking and picnic area",
+            "MoreInfo": "near parking and picnic area with grill stations and out buildings",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.8236°N, 83.6239°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Princess Arch Overlook",
+            "Description": "Short walk from parking lot",
+            "MoreInfo": "Short walk from parking lot",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.8230°N, 83.6230°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Angel Windows Overlook",
+            "Description": "Quick roadside stop with sandstone formations",
+            "MoreInfo": "Quick roadside stop with sandstone formations",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.8235°N, 83.6235°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Nada Tunnel Scenic Pull‑Off ",
+            "Description": "Historic tunnel with parking near entrances.",
+            "MoreInfo": "Historic tunnel with roadside views, near the entrances.",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.7810°N, 83.6540°W",
+            "Email": "",
+            "Website": "",
             "SocialSite": "",
             "ImageLinks": []
         }
