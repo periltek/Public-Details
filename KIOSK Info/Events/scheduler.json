@@ -1,7 +1,7 @@
 {
     "meta": {
         "source": "The Red Developer",
-        "timestamp": "2025-12-05T05:39:14.3585614Z",
+        "timestamp": "2025-12-13T00:22:26.7310102Z",
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/scheduler.json",
         "fallbackUrl": ""
     },
@@ -11,8 +11,8 @@
             "EventDescription": "2026 Details TBD by organizer.",
             "EventCategory": "NotSpecified",
             "push": false,
-            "Day": "",
-            "Time": "",
+            "Day": "SAT, MAY 30, 2026 ",
+            "Time": "10 AM",
             "EndDateAndTime": "",
             "LocationName": "Stanton City Park",
             "Address": "127 Halls Lane Stanton, Kentucky 40380",
@@ -54,6 +54,40 @@
             "URL": "www.woollywormfest.com",
             "ContactAssetPath": "",
             "ContactPhone": "(606) 464-2888",
+            "ContactEmail": "",
+            "imgLinks": []
+        },
+        {
+            "EventName": "Swift Silver Mine Festival",
+            "EventDescription": "The Swift Silver Mine Festival is an annual community celebration in Campton, Kentucky, inspired by the Appalachian legend of Jonathan Swift’s lost silver mine. It features parades, music, crafts, and storytelling that honor both local folklore and regional heritage.\r",
+            "EventCategory": "NotSpecified",
+            "push": false,
+            "Day": "",
+            "Time": "",
+            "EndDateAndTime": "",
+            "LocationName": "",
+            "Address": "",
+            "GPS": "",
+            "URL": "",
+            "ContactAssetPath": "",
+            "ContactPhone": "",
+            "ContactEmail": "",
+            "imgLinks": []
+        },
+        {
+            "EventName": "Miatas in the Red River Gorge",
+            "EventDescription": "Details coming soon...  - ",
+            "EventCategory": "NotSpecified",
+            "push": false,
+            "Day": "SAT, SEP 12, 2026",
+            "Time": "",
+            "EndDateAndTime": "SUN, SEP 13, 2026",
+            "LocationName": "",
+            "Address": "",
+            "GPS": "",
+            "URL": "",
+            "ContactAssetPath": "",
+            "ContactPhone": "",
             "ContactEmail": "",
             "imgLinks": []
         }
