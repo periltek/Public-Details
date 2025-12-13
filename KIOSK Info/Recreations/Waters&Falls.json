@@ -1,0 +1,141 @@
+{
+    "meta": {
+        "primaryUrl": "",
+        "fallbackUrl": "",
+        "lastUpdated": "2025-12-13T12:07:12Z"
+    },
+    "kiosk": [
+        {
+            "Title": "Creation Falls",
+            "Description": "Waterfall",
+            "MoreInfo": "Waterfall",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.7890°N, 83.5410°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Rock Bridge Falls",
+            "Description": "Waterfall",
+            "MoreInfo": "Waterfall",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.7895°N, 83.5415°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Copperas Falls",
+            "Description": "Waterfall",
+            "MoreInfo": "Waterfall",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.8167°N, 83.5667°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Swift Camp Creek",
+            "Description": "Creek",
+            "MoreInfo": "Creek",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.8500°N, 83.6000°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Red River",
+            "Description": "River",
+            "MoreInfo": "River",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.8000°N, 83.6830°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Gladie Creek",
+            "Description": "Creek",
+            "MoreInfo": "Creek",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.8500°N, 83.6160°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Chimney Top Creek",
+            "Description": "Creek",
+            "MoreInfo": "Creek",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.8339°N, 83.6078°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Indian Creek",
+            "Description": "Creek",
+            "MoreInfo": "Creek",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.8500°N, 83.6330°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Clifty Creek",
+            "Description": "Creek",
+            "MoreInfo": "Creek",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.8500°N, 83.6167°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Copperas Creek",
+            "Description": "Creek",
+            "MoreInfo": "Creek",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.8167°N, 83.5667°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        },
+        {
+            "Title": "Copperas Creek",
+            "Description": "",
+            "MoreInfo": "",
+            "Phone": "",
+            "Address": "",
+            "Coords": "37.8167°N, 83.5667°W",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "ImageLinks": []
+        }
+    ]
+}

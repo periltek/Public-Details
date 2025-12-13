@@ -2,83 +2,59 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2025-12-13T11:51:48Z"
+        "lastUpdated": "2025-12-13T12:23:02Z"
     },
     "kiosk": [
         {
-            "Title": "Sky Bridge Trail",
-            "Description": "Experience the wonder of hiking this area to a double arch formation.",
-            "MoreInfo": "Experience the wonder of hiking this area to a double arch formation.",
-            "Phone": "",
-            "Address": "214 Sky Bridge Rd, Pine Ridge, KY 41360",
-            "Coords": "37.809985, -83.590156",
-            "Email": "",
-            "Website": "",
-            "SocialSite": "",
-            "ImageLinks": []
-        },
-        {
-            "Title": "Auxier Ridge & Courthouse Rock",
-            "Description": "Moderate ridge hike with views",
-            "MoreInfo": "Moderate ridge hike with views",
+            "Title": "Regulations For Camping",
+            "Description": "Connect to view the most recent camping regulations related to the RRG and D. B. National Forest",
+            "MoreInfo": "Connect to view the most recent camping regulations related to the RRG and D. B. National Forest",
             "Phone": "",
             "Address": "",
-            "Coords": "37.8500°N, 83.6330°W",
-            "Email": "",
-            "Website": "",
+            "Coords": "",
+            "Email": "AppSupport@RedRiverRecreations.com",
+            "Website": "https://www.fs.usda.gov/r08/danielboone/recreation/camping-cabins",
             "SocialSite": "",
             "ImageLinks": []
         },
         {
-            "Title": "Gray’s Arch Trail",
-            "Description": "Easy hike to massive arch",
-            "MoreInfo": "Easy hike to massive arch",
+            "Title": "Courthouse Rock Area",
+            "Description": "",
+            "MoreInfo": "",
             "Phone": "",
             "Address": "",
-            "Coords": "37.8440°N, 83.6570°W",
+            "Coords": "",
             "Email": "",
             "Website": "",
             "SocialSite": "",
             "ImageLinks": []
         },
         {
-            "Title": "Indian Staircase & Indian Arch",
-            "Description": "Difficult, unmarked climb ",
-            "MoreInfo": "Difficult, unmarked climb ",
+            "Title": "Gray’s Arch Backcountry",
+            "Description": "",
+            "MoreInfo": "",
             "Phone": "",
             "Address": "",
-            "Coords": "37.8500°N, 83.6000°W",
+            "Coords": "",
             "Email": "",
             "Website": "",
             "SocialSite": "",
             "ImageLinks": []
         },
         {
-            "Title": "Natural Bridge & Laurel Ridge",
-            "Description": "Easy, iconic sandstone arch",
-            "MoreInfo": "Easy, iconic sandstone arch",
+            "Title": "Hanson’s Point",
+            "Description": "",
+            "MoreInfo": "",
             "Phone": "",
             "Address": "",
-            "Coords": "37.7811°N, 83.6836°W",
+            "Coords": "",
             "Email": "",
             "Website": "",
             "SocialSite": "",
             "ImageLinks": []
         },
         {
-            "Title": "Whittleton Arch Trail",
-            "Description": "Easy hike to arch ",
-            "MoreInfo": "Easy hike to arch ",
-            "Phone": "",
-            "Address": "",
-            "Coords": "37.8000°N, 83.6830°W",
-            "Email": "",
-            "Website": "",
-            "SocialSite": "",
-            "ImageLinks": []
-        },
-        {
-            "Title": "Double Arch & Star Gap Arch",
+            "Title": "Indian Staircase Area",
             "Description": "Moderate, unmarked trail",
             "MoreInfo": "Moderate, unmarked trail",
             "Phone": "",
@@ -90,7 +66,7 @@
             "ImageLinks": []
         },
         {
-            "Title": "Rock Bridge Trail",
+            "Title": "Koomer Ridge Backcountry",
             "Description": "Moderate, waterfall nearby ",
             "MoreInfo": "Moderate, waterfall nearby ",
             "Phone": "",
@@ -102,7 +78,7 @@
             "ImageLinks": []
         },
         {
-            "Title": "Silvermine Arch & Hidden Arch",
+            "Title": "Chimney Top Creek Area",
             "Description": "Moderate loop trail",
             "MoreInfo": "Moderate loop trail",
             "Phone": "",
@@ -114,7 +90,7 @@
             "ImageLinks": []
         },
         {
-            "Title": "Turtle Back Arch Trail",
+            "Title": "Copperas Creek Area",
             "Description": "Moderate, unmarked trail",
             "MoreInfo": "Moderate, unmarked trail",
             "Phone": "",
@@ -126,7 +102,7 @@
             "ImageLinks": []
         },
         {
-            "Title": "Chimney Top Trail",
+            "Title": "Rock Bridge Area",
             "Description": "Short, easy overlook hike",
             "MoreInfo": "Short, easy overlook hike",
             "Phone": "",
