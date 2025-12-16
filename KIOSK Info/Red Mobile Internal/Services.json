@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "primaryUrl": "",
+        "fallbackUrl": "",
+        "lastUpdated": "2025-12-14T21:57:21Z"
+    },
+    "kiosk": [
+        {
+            "Title": "Services",
+            "Description": "We offer a range of services from property checks to digital products.",
+            "MoreInfo": "We offer a range of services from property checks to digital products.",
+            "Phone": "",
+            "Address": "",
+            "Coords": "",
+            "Email": "AppSupport@RedRiverRecreations.com",
+            "Website": "ko-fi.com/TheRedDeveloper",
+            "SocialSite": "",
+            "ImageLinks": []
+        }
+    ]
+}
