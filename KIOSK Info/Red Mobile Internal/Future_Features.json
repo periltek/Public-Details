@@ -2,13 +2,13 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2025-12-14T21:53:57Z"
+        "lastUpdated": "2025-12-16T03:50:42Z"
     },
     "kiosk": [
         {
-            "Title": "Updates",
-            "Description": "This area will featue various details related to updates and act as a hub to review the most recent changes in the App.",
-            "MoreInfo": "This area will featue various details related to updates and act as a hub to review the most recent changes in the App.",
+            "Title": "Future Features",
+            "Description": "",
+            "MoreInfo": "Our Future Features showcase the concepts and refinements we’re developing to make your experience more intuitive, engaging, and impactful. By sharing what’s ahead, we give you a clear view of how upcoming improvements will continue to evolve and enrich your connection with our platform.",
             "Phone": "",
             "Address": "",
             "Coords": "",

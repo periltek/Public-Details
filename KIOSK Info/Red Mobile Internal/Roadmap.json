@@ -2,19 +2,19 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2025-12-14T21:53:57Z"
+        "lastUpdated": "2025-12-16T04:13:20Z"
     },
     "kiosk": [
         {
-            "Title": "Updates",
-            "Description": "This area will featue various details related to updates and act as a hub to review the most recent changes in the App.",
-            "MoreInfo": "This area will featue various details related to updates and act as a hub to review the most recent changes in the App.",
+            "Title": "Roadmap & Mile Stones",
+            "Description": "",
+            "MoreInfo": "Our Roadmap will present the evolving plan for Red Mobile and related products and services. By sharing this vision, we give users a clear look at what’s coming and how our ecosystem will expand. ",
             "Phone": "",
             "Address": "",
             "Coords": "",
-            "Email": "",
+            "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "www.RedRiverRecreations.com",
-            "SocialSite": "",
+            "SocialSite": "https://www.facebook.com/TheRedMobile",
             "ImageLinks": []
         }
     ]

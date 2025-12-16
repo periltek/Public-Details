@@ -2,19 +2,19 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2025-12-14T21:29:02Z"
+        "lastUpdated": "2025-12-16T04:07:06Z"
     },
     "kiosk": [
         {
             "Title": "Red-E-Store",
             "Description": "Product Showcases ",
-            "MoreInfo": "Various products & services originating from the Red will be displayed here, each accompanied by a direct link to or own or the respective provider’s sales platform.",
+            "MoreInfo": "The Red E Store is our upcoming shop featuring select products, with direct links to purchase through our online site. It offers users a simple way to connect with items tied to our community and platform. ",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "Ko-Fi.com/TheRedDeveloper",
-            "SocialSite": "",
+            "SocialSite": "https://www.facebook.com/TheRedMobile",
             "ImageLinks": []
         }
     ]

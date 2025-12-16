@@ -2,19 +2,19 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2025-12-14T21:52:12Z"
+        "lastUpdated": "2025-12-16T04:11:50Z"
     },
     "kiosk": [
         {
             "Title": "Partners & Promos",
             "Description": "We plan to feature a partner program to allow locals access to the app platform for their advertising means.",
-            "MoreInfo": "We're still developing features to allow promotions on the platform, inluding local classifieds, and advertising in general.",
+            "MoreInfo": "The Partners area lists static promos for those who sponsor or collaborate directly with us. By showcasing these relationships, we celebrate the support and teamwork that make our growth and innovation possible. Thank you all!",
             "Phone": "",
             "Address": "",
             "Coords": "",
-            "Email": "",
+            "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "Ko-Fi.com/TheRedDeveloper",
-            "SocialSite": "",
+            "SocialSite": "https://www.facebook.com/TheRedMobile",
             "ImageLinks": []
         }
     ]

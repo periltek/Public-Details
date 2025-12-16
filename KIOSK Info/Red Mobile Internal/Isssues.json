@@ -2,19 +2,19 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2025-12-14T21:53:57Z"
+        "lastUpdated": "2025-12-16T04:04:51Z"
     },
     "kiosk": [
         {
-            "Title": "Updates",
-            "Description": "This area will featue various details related to updates and act as a hub to review the most recent changes in the App.",
-            "MoreInfo": "This area will featue various details related to updates and act as a hub to review the most recent changes in the App.",
+            "Title": "Issues",
+            "Description": "",
+            "MoreInfo": "This section provides transparency by listing problems reported or discovered in the app. This helps users stay informed about known challenges while showing our commitment to resolving them quickly and improving overall reliability. ",
             "Phone": "",
             "Address": "",
             "Coords": "",
-            "Email": "",
+            "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "www.RedRiverRecreations.com",
-            "SocialSite": "",
+            "SocialSite": "ko-fi.com/TheRedDeveloper",
             "ImageLinks": []
         }
     ]
