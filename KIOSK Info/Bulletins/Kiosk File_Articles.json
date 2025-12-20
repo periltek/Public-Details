@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Articles.json",
         "fallbackUrl": "",
-        "lastUpdated": "2025-12-09T18:38:09Z"
+        "lastUpdated": "2025-12-20T12:16:17Z"
     },
     "kiosk": [
         {
@@ -15,7 +15,11 @@
             "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "www.RedRiverRecreations.com",
             "SocialSite": "https://www.facebook.com/TheRedMobile/",
-            "ImageLinks": []
+            "ImageLinks": [
+                "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Red%20Express/Gorge%202%20Go/Gorge2Go.png"
+            ],
+            "RadioArray": [],
+            "Facts": []
         }
     ]
 }
