@@ -1,5 +1,5 @@
 {
-    "catalogVersion": "2026-02-22T05:07:06Z",
+    "catalogVersion": "2026-02-22T06:02:28Z",
     "useAlternate": false,
     "alternateCatalogUrl": "",
     "stations": [
@@ -10,11 +10,10 @@
             "isOnAir": true,
             "iconUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/App%20Downloads/Red%20Radio/The%20Red/Red%20Radio%20Icon.png",
             "displayUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/App%20Downloads/Red%20Radio/The%20Red/Red%20Radio%20Logo.png",
-            "offAirLoopUrl": "https://github.com/periltek/Public-Details/raw/refs/heads/main/KIOSK%20Info/App%20Downloads/Red%20Radio/Default_Off_Air.ogg",
-            "stationVersion": "2026-02-22T05:07:01Z",
+            "offAirLoopUrl": "https://github.com/periltek/Public-Details/raw/refs/heads/main/KIOSK%20Info/App%20Downloads/Red%20Radio/The%20Red/ivc_s37_sb83_se49_b_m2.mp3",
+            "stationVersion": "2026-02-22T06:02:25Z",
             "tracks": [
-                "https://github.com/periltek/Public-Details/raw/refs/heads/main/KIOSK%20Info/App%20Downloads/Red%20Radio/The%20Red/ivc_s31_sb87_se50_b_m2.mp3",
-                "https://github.com/periltek/Public-Details/raw/refs/heads/main/KIOSK%20Info/App%20Downloads/Red%20Radio/The%20Red/pvc_s46_sb64_t2.mp3",
+                "https://github.com/periltek/Public-Details/raw/refs/heads/main/KIOSK%20Info/App%20Downloads/Red%20Radio/The%20Red/ivc_s37_sb83_se49_b_m2.mp3",
                 "https://github.com/periltek/Public-Details/raw/refs/heads/main/KIOSK%20Info/App%20Downloads/Red%20Radio/The%20Red/pvc_s46_sb64_t2B.mp3"
             ]
         }
