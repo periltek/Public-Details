@@ -1,0 +1,18 @@
+{
+    "catalogVersion": "2026-02-22T03:26:28Z",
+    "useAlternate": false,
+    "alternateCatalogUrl": "",
+    "stations": [
+        {
+            "stationTitle": "The Red",
+            "dialPosition": 10.0,
+            "retire": false,
+            "isOnAir": true,
+            "iconUrl": "",
+            "displayUrl": "",
+            "offAirLoopUrl": "",
+            "stationVersion": "2026-02-22T03:10:42Z",
+            "tracks": []
+        }
+    ]
+}
