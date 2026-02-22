@@ -1,5 +1,5 @@
 {
-    "catalogVersion": "2026-02-22T06:02:28Z",
+    "catalogVersion": "2026-02-22T07:31:32Z",
     "useAlternate": false,
     "alternateCatalogUrl": "",
     "stations": [
@@ -8,13 +8,13 @@
             "dialPosition": 10.0,
             "retire": false,
             "isOnAir": true,
+            "stationDescription": "This station can run on a loop, providing a constant source of the latest news, app updates, local and regional changes, and a wide range of additional community insights.",
             "iconUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/App%20Downloads/Red%20Radio/The%20Red/Red%20Radio%20Icon.png",
             "displayUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/App%20Downloads/Red%20Radio/The%20Red/Red%20Radio%20Logo.png",
             "offAirLoopUrl": "https://github.com/periltek/Public-Details/raw/refs/heads/main/KIOSK%20Info/App%20Downloads/Red%20Radio/The%20Red/ivc_s37_sb83_se49_b_m2.mp3",
-            "stationVersion": "2026-02-22T06:02:25Z",
+            "stationVersion": "2026-02-22T07:31:27Z",
             "tracks": [
-                "https://github.com/periltek/Public-Details/raw/refs/heads/main/KIOSK%20Info/App%20Downloads/Red%20Radio/The%20Red/ivc_s37_sb83_se49_b_m2.mp3",
-                "https://github.com/periltek/Public-Details/raw/refs/heads/main/KIOSK%20Info/App%20Downloads/Red%20Radio/The%20Red/pvc_s46_sb64_t2B.mp3"
+                "https://github.com/periltek/Public-Details/raw/refs/heads/main/KIOSK%20Info/App%20Downloads/Red%20Radio/The%20Red/ivc_s37_sb83_se49_b_m2.mp3"
             ]
         }
     ]
