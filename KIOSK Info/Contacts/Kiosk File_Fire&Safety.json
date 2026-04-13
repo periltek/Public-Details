@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Classifieds.json",
+        "fallbackUrl": "",
+        "lastUpdated": "2026-04-13T23:03:48Z"
+    },
+    "kiosk": [
+        {
+            "Title": "Wolfe County Search & Rescue",
+            "Description": "",
+            "MoreInfo": "",
+            "Phone": "",
+            "Address": "",
+            "Coords": "",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "iMatrix": {
+                "instanceID": 0
+            },
+            "autoLink": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": [],
+            "customPrefabLabel": "",
+            "customPrefabLink": ""
+        }
+    ]
+}
