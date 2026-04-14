@@ -2,12 +2,12 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Classifieds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-14T00:50:49Z"
+        "lastUpdated": "2026-04-14T01:13:15Z"
     },
     "kiosk": [
         {
             "Title": "Work in Progress",
-            "Description": "Data entry is such a gritty time consuming task. Check back often as this section will recieve updates often.",
+            "Description": "Data entry is such a gritty time consuming task. Check back soon as this section will recieve updates often.",
             "MoreInfo": "",
             "Phone": "",
             "Address": "",

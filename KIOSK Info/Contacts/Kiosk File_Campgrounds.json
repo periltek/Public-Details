@@ -2,12 +2,12 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Classifieds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-14T00:42:21Z"
+        "lastUpdated": "2026-04-14T01:11:20Z"
     },
     "kiosk": [
         {
-            "Title": "Campgrounds",
-            "Description": "Both public and privately owned campground are featured. To feature your own campground, contact us to find out how.",
+            "Title": "Campgrounds Coming Soon...",
+            "Description": "Data entry is such a gritty time consuming task. Check back soon as this section will recieve updates often.",
             "MoreInfo": "",
             "Phone": "",
             "Address": "",

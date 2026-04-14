@@ -2,12 +2,12 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Classifieds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-14T00:44:52Z"
+        "lastUpdated": "2026-04-14T01:12:39Z"
     },
     "kiosk": [
         {
-            "Title": "Various Listings",
-            "Description": "This section features various categories related to safety resources, including fire, search & rescue, and forestry services.",
+            "Title": "Updates Coming",
+            "Description": "Data entry is such a gritty time consuming task. Check back soon as this section will recieve updates often.",
             "MoreInfo": "",
             "Phone": "",
             "Address": "",
@@ -21,7 +21,9 @@
             "autoLink": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": [],
+            "Facts": [
+                "Various categories will be featured, such as fire, ems, & search & Rescue."
+            ],
             "customPrefabLabel": "",
             "customPrefabLink": ""
         }

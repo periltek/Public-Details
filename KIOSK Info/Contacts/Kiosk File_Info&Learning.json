@@ -2,20 +2,28 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Classifieds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2025-12-09T18:50:48Z"
+        "lastUpdated": "2026-04-14T01:13:38Z"
     },
     "kiosk": [
         {
-            "Title": "Free Classifieds",
-            "Description": "For a short time, we're offering this service fully free of charge.",
-            "MoreInfo": "However, We encourage those who find success to consider supporting us. Free & Paid promos will be offered soon.",
+            "Title": "Updates on the Way",
+            "Description": "There is still much to do, and we're busy getting it done. These listings will be updated often as we continue developing it.",
+            "MoreInfo": "",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "www.RedRiverRecreations.com",
             "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "ImageLinks": []
+            "iMatrix": {
+                "instanceID": 0
+            },
+            "autoLink": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": [],
+            "customPrefabLabel": "",
+            "customPrefabLink": ""
         }
     ]
 }

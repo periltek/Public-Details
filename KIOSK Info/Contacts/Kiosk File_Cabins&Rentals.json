@@ -2,12 +2,12 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Classifieds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-14T00:36:50Z"
+        "lastUpdated": "2026-04-14T01:10:45Z"
     },
     "kiosk": [
         {
-            "Title": "Add Your Cabin",
-            "Description": "All basic listings are free. Contact us to learn about additional options available to add.",
+            "Title": "Cabins Coming...",
+            "Description": "Data entry is such a gritty time consuming task. Check back soon as this section will recieve updates often.",
             "MoreInfo": "",
             "Phone": "",
             "Address": "",
