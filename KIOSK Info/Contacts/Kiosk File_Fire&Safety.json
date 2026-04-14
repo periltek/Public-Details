@@ -2,12 +2,12 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Classifieds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-13T23:03:48Z"
+        "lastUpdated": "2026-04-14T00:44:52Z"
     },
     "kiosk": [
         {
-            "Title": "Wolfe County Search & Rescue",
-            "Description": "",
+            "Title": "Various Listings",
+            "Description": "This section features various categories related to safety resources, including fire, search & rescue, and forestry services.",
             "MoreInfo": "",
             "Phone": "",
             "Address": "",
