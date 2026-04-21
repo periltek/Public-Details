@@ -2,28 +2,25 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Cabins%26Rentals.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-14T01:26:05Z"
+        "lastUpdated": "2026-04-21T15:33:32Z"
     },
     "kiosk": [
         {
-            "Title": "Cabins Coming...",
-            "Description": "Data entry is such a gritty time consuming task. Check back soon as this section will recieve updates often.",
-            "MoreInfo": "",
+            "Title": "Digital Magazine Coming Soon",
+            "Description": "A digital magazine detailing cabins will become available soon. ",
+            "Summary": "Testing Block 2",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "www.RedRiverRecreations.com",
             "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "iMatrix": {
-                "instanceID": 0
-            },
-            "autoLink": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "Cabin Catalog",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": [],
-            "customPrefabLabel": "",
-            "customPrefabLink": ""
+            "Facts": []
         }
     ]
 }
