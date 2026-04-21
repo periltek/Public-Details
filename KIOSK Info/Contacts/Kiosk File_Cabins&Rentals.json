@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Cabins%26Rentals.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-21T15:33:32Z"
+        "lastUpdated": "2026-04-21T15:37:29Z"
     },
     "kiosk": [
         {
@@ -16,7 +16,7 @@
             "Website": "www.RedRiverRecreations.com",
             "SocialSite": "www.ko-fi.com/TheRedDeveloper",
             "promoLink": "",
-            "docDescription": "",
+            "docDescription": "Tap & Hold to launch the document",
             "docLabel": "Cabin Catalog",
             "ImageLinks": [],
             "RadioArray": [],
