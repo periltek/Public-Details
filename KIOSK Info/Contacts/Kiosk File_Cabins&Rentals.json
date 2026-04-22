@@ -2,12 +2,11 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Cabins%26Rentals.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-21T15:37:29Z"
+        "lastUpdated": "2026-04-22T13:08:34Z"
     },
     "kiosk": [
         {
             "Title": "Digital Magazine Coming Soon",
-            "Description": "A digital magazine detailing cabins will become available soon. ",
             "Summary": "Testing Block 2",
             "Phone": "",
             "Address": "",
@@ -20,7 +19,11 @@
             "docLabel": "Cabin Catalog",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "Fact 1",
+                "Fact 2",
+                "Fact 3"
+            ]
         }
     ]
 }
