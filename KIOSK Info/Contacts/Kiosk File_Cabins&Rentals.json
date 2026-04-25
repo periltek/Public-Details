@@ -2,12 +2,12 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Cabins%26Rentals.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-22T13:08:34Z"
+        "lastUpdated": "2026-04-25T11:59:50Z"
     },
     "kiosk": [
         {
             "Title": "Digital Magazine Coming Soon",
-            "Summary": "Testing Block 2",
+            "Summary": "Updates coming soon. We're working on various digital publications and the systems that work with them. ",
             "Phone": "",
             "Address": "",
             "Coords": "",
@@ -15,14 +15,15 @@
             "Website": "www.RedRiverRecreations.com",
             "SocialSite": "www.ko-fi.com/TheRedDeveloper",
             "promoLink": "",
-            "docDescription": "Tap & Hold to launch the document",
+            "docDescription": "Once available, users will be able to Tap & Hold this button to launch the document. This messages will update once the document is published by the developer or author.",
             "docLabel": "Cabin Catalog",
             "ImageLinks": [],
             "RadioArray": [],
             "Facts": [
-                "Fact 1",
-                "Fact 2",
-                "Fact 3"
+                "Advertising Guide",
+                "The Advertising Guide has not been published yet. Check back later for updates.",
+                "Once published, the Advertising Guide will help you understand in-app options for promos and advertisements.",
+                "The Red Mobile has no intentions of 3rd party advertising platforms. Instead, we offer exclusive access for advertising only to locals and relative entities."
             ]
         }
     ]
