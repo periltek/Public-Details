@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Fire%26Safety.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-03T16:13:51Z"
+        "lastUpdated": "2026-05-03T16:18:23Z"
     },
     "kiosk": [
         {
@@ -26,7 +26,7 @@
         },
         {
             "Title": "Middle Fork FD",
-            "Summary": "",
+            "Summary": "This Fire Dept serves the natural bridge state park and portions of the RRG Region. They are the leading agency for Search & Rescue ops in the RRG",
             "Phone": "(606) 663-9232",
             "Address": "9219 Campton Rd, Stanton, KY 40380",
             "Coords": "",
