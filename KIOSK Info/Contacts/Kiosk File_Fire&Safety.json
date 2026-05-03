@@ -2,30 +2,27 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Fire%26Safety.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-14T01:28:09Z"
+        "lastUpdated": "2026-05-03T14:02:07Z"
     },
     "kiosk": [
         {
             "Title": "Updates Coming",
-            "Description": "Data entry is such a gritty time consuming task. Check back soon as this section will recieve updates often.",
-            "MoreInfo": "",
+            "Summary": "",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "",
             "Website": "",
             "SocialSite": "",
-            "iMatrix": {
-                "instanceID": 0
-            },
-            "autoLink": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
             "Facts": [
+                "",
                 "Various categories will be featured, such as fire, ems, & search & Rescue."
-            ],
-            "customPrefabLabel": "",
-            "customPrefabLink": ""
+            ]
         }
     ]
 }
