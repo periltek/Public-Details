@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Fire%26Safety.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-03T16:22:09Z"
+        "lastUpdated": "2026-05-04T12:10:51Z"
     },
     "kiosk": [
         {
@@ -30,7 +30,7 @@
             "Phone": "(606) 663-9232",
             "Address": "9219 Campton Rd, Stanton, KY 40380",
             "Coords": "",
-            "Email": "",
+            "Email": "middleforkfd@kymail.com",
             "Website": "https://powellcounty.ky.gov/department/Pages/middlefork-fire.aspx",
             "SocialSite": "https://www.facebook.com/MiddleforkFireandRescue/",
             "promoLink": "",
