@@ -2,12 +2,12 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-05T12:12:43Z"
+        "lastUpdated": "2026-05-05T12:38:18Z"
     },
     "kiosk": [
         {
-            "Title": "Updates Coming...",
-            "Summary": "Many details and information in general is still being compiled and checked for accuracy as we update our systems.",
+            "Title": "Updates Coming",
+            "Summary": "Details are still being compiled and checked for accuracy as we update our systems.",
             "Phone": "",
             "Address": "",
             "Coords": "",
