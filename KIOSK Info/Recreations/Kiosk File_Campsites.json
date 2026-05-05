@@ -2,12 +2,12 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-05T11:43:59Z"
+        "lastUpdated": "2026-05-05T12:12:43Z"
     },
     "kiosk": [
         {
-            "Title": "More Updates Coming Soon...",
-            "Summary": "",
+            "Title": "Updates Coming...",
+            "Summary": "Many details and information in general is still being compiled and checked for accuracy as we update our systems.",
             "Phone": "",
             "Address": "",
             "Coords": "",
@@ -22,14 +22,14 @@
             "Facts": []
         },
         {
-            "Title": "Regulations For Camping",
-            "Summary": "",
+            "Title": "Camping Regulations",
+            "Summary": "Tap & Hold the website icon located in the info menu to view a detailed summary of regulations for camping in the Daniel Boone National Park.",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "https://www.fs.usda.gov/r08/danielboone/recreation/camping-cabins",
-            "SocialSite": "",
+            "SocialSite": "https://www.facebook.com/TheRedMobile/",
             "promoLink": "",
             "docDescription": "",
             "docLabel": "",
@@ -171,6 +171,22 @@
             "Phone": "",
             "Address": "3271 E Fork Indian Creek Rd, Frenchburg, KY 40322, United States",
             "Coords": "37.857628, -83.67516",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "New Kiosk Entry",
+            "Summary": "",
+            "Phone": "",
+            "Address": "",
+            "Coords": "",
             "Email": "",
             "Website": "",
             "SocialSite": "",
