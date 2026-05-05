@@ -2,28 +2,72 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Campgrounds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-14T01:27:37Z"
+        "lastUpdated": "2026-05-05T11:41:12Z"
     },
     "kiosk": [
         {
-            "Title": "Campgrounds Coming Soon...",
-            "Description": "Data entry is such a gritty time consuming task. Check back soon as this section will recieve updates often.",
-            "MoreInfo": "",
-            "Phone": "",
-            "Address": "",
+            "Title": "Natural Bridge Campground",
+            "Summary": "This campground is located in Slade, near the Welcome Center & directly behind the Reptile Zoo featuring both primitive, glamping options, RV parking with utility hookups, a shower house, dump station & more.",
+            "Phone": "(606) 663-9352",
+            "Address": "90 L and E Railroad Pl, Slade, KY 40376",
             "Coords": "",
-            "Email": "AppSupport@RedRiverRecreations.com",
-            "Website": "www.RedRiverRecreations.com",
-            "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "iMatrix": {
-                "instanceID": 0
-            },
-            "autoLink": "",
+            "Email": "",
+            "Website": "https://naturalbridge.camp/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": [],
-            "customPrefabLabel": "",
-            "customPrefabLink": ""
+            "Facts": []
+        },
+        {
+            "Title": "Whittleton Campground",
+            "Summary": "",
+            "Phone": "(606)663-2214",
+            "Address": "2135 Natural Bridge Rd, Slade, KY 40376",
+            "Coords": "",
+            "Email": "tim.hibbard@ky.gov",
+            "Website": "https://parks.ky.gov/parks/find-a-park/natural-bridge-state-resort-park-7796",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "4 Guys RV Park",
+            "Summary": "",
+            "Phone": "(606) 663-4444",
+            "Address": "10137 Campton Rd, Stanton, KY 40380",
+            "Coords": "",
+            "Email": "",
+            "Website": "www.4guysrvpark.com",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "John Swift's Lost Silver Mine Campground",
+            "Summary": "This campground is located just at the junction where 77 meets 715, traveling into Gladie",
+            "Phone": "(606) 663-5258",
+            "Address": "45 KY-715, Frenchburg, KY 40322",
+            "Coords": "",
+            "Email": "",
+            "Website": "http://www.redriveradventure.net",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
         }
     ]
 }
