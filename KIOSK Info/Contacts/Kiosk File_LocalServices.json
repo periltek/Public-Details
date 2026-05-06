@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_LocalServices.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-06T12:28:13Z"
+        "lastUpdated": "2026-05-06T13:16:24Z"
     },
     "kiosk": [
         {
@@ -22,14 +22,14 @@
             "Facts": []
         },
         {
-            "Title": "New Kiosk Entry",
-            "Summary": "",
-            "Phone": "",
+            "Title": "Gorge Shuttle",
+            "Summary": "Gorge Shuttle is a local transportation service offering convenient, hop‑on access to key trailheads, overlooks, and attractions throughout the Red River Gorge, providing an easy, car‑free way to explore the Natural Bridge and Slade area.\t",
+            "Phone": "(859)281-6033",
             "Address": "",
             "Coords": "",
             "Email": "",
             "Website": "",
-            "SocialSite": "",
+            "SocialSite": "https://www.facebook.com/groups/3004366322914459",
             "promoLink": "",
             "docDescription": "",
             "docLabel": "",
