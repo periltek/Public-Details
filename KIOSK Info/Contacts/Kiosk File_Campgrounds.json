@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Campgrounds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-06T11:55:42Z"
+        "lastUpdated": "2026-05-06T11:58:07Z"
     },
     "kiosk": [
         {
@@ -23,7 +23,7 @@
         },
         {
             "Title": "Whittleton Campground",
-            "Summary": "This campground serves as one of the two main campgrounds inside Natural Bridge State Resort Park. It provides a quiet, forested setting with sites suitable for tents and RVs, including electric hookups, drinking water, restrooms, and showers for convenience.",
+            "Summary": "This creekside campground provides a quiet, forested setting with sites suitable for tents and RVs, including electric hookups, drinking water, restrooms, and showers for convenience.",
             "Phone": "(606)663-2214",
             "Address": "Q8JG+2F, 2135 Natural Bridge Rd, Slade, KY 40376",
             "Coords": "37.78030264732745, -83.67371520816431",
@@ -64,6 +64,22 @@
             "Coords": "",
             "Email": "",
             "Website": "http://www.redriveradventure.net",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "New Kiosk Entry",
+            "Summary": "",
+            "Phone": "",
+            "Address": "",
+            "Coords": "",
+            "Email": "",
+            "Website": "",
             "SocialSite": "",
             "promoLink": "",
             "docDescription": "",
