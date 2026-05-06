@@ -2,28 +2,40 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_LocalServices.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-14T01:33:26Z"
+        "lastUpdated": "2026-05-06T12:28:13Z"
     },
     "kiosk": [
         {
-            "Title": "Work in Progress",
-            "Description": "Data entry is such a gritty time consuming task. Check back soon as this section will recieve updates often.",
-            "MoreInfo": "",
+            "Title": "Stanton Airport",
+            "Summary": "A small, community‑focused airfield serving Powell County and the RRG region, providing general aviation access & pilot services.",
+            "Phone": "(606)569-9011",
+            "Address": "102 Plum St, Stanton, KY 40380",
+            "Coords": "37.848731689661314, -83.8464151320727",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "New Kiosk Entry",
+            "Summary": "",
             "Phone": "",
             "Address": "",
             "Coords": "",
-            "Email": "AppSupport@RedRiverRecreations.com",
-            "Website": "www.RedRiverRecreations.com",
-            "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "iMatrix": {
-                "instanceID": 0
-            },
-            "autoLink": "",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": [],
-            "customPrefabLabel": "",
-            "customPrefabLink": ""
+            "Facts": []
         }
     ]
 }

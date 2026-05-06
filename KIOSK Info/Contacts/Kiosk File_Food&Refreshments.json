@@ -2,28 +2,24 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Food%26Refreshments.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-14T01:28:49Z"
+        "lastUpdated": "2026-05-06T12:20:35Z"
     },
     "kiosk": [
         {
-            "Title": "Work in Progress",
-            "Description": "There is still much to do, and we're busy getting it done. These listings will be updated often as we continue developing it.",
-            "MoreInfo": "",
-            "Phone": "",
-            "Address": "",
+            "Title": "Miguel's Pizza",
+            "Summary": "Miguel’s Pizza is a beloved Red River Gorge landmark known for its handmade pizzas, vibrant climber community, and laid‑back atmosphere, serving as a central gathering spot for visitors exploring Natural Bridge and the surrounding Gorge.",
+            "Phone": "(606)663-1975",
+            "Address": "1890 Natural Bridge Rd, Slade, KY 40376",
             "Coords": "",
-            "Email": "AppSupport@RedRiverRecreations.com",
-            "Website": "www.RedRiverRecreations.com",
-            "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "iMatrix": {
-                "instanceID": 0
-            },
-            "autoLink": "",
+            "Email": "",
+            "Website": "https://www.miguelspizza.com/#67",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": [],
-            "customPrefabLabel": "",
-            "customPrefabLink": ""
+            "Facts": []
         }
     ]
 }

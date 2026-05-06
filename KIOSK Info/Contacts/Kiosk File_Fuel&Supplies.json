@@ -2,28 +2,24 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Fuel%26Supplies.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-14T01:31:13Z"
+        "lastUpdated": "2026-05-06T12:22:59Z"
     },
     "kiosk": [
         {
-            "Title": "Work in Progress",
-            "Description": "Data entry is such a gritty time consuming task. Check back soon as this section will recieve updates often.",
-            "MoreInfo": "",
-            "Phone": "",
-            "Address": "",
+            "Title": "Go Time",
+            "Summary": "A local convenience stop in the Slade and Natural Bridge area, offering fuel, grab‑and‑go food, drinks, and essential supplies for visitors exploring the RRG.",
+            "Phone": "(606)663-7890",
+            "Address": "12056 Campton Rd, Stanton, KY 40380",
             "Coords": "",
-            "Email": "AppSupport@RedRiverRecreations.com",
-            "Website": "www.RedRiverRecreations.com",
-            "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "iMatrix": {
-                "instanceID": 0
-            },
-            "autoLink": "",
+            "Email": "",
+            "Website": "http://www.gotimecstore.com/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": [],
-            "customPrefabLabel": "",
-            "customPrefabLink": ""
+            "Facts": []
         }
     ]
 }

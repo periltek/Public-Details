@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Campgrounds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-06T11:58:07Z"
+        "lastUpdated": "2026-05-06T12:15:21Z"
     },
     "kiosk": [
         {
@@ -35,14 +35,11 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": [
-                "",
-                ""
-            ]
+            "Facts": []
         },
         {
             "Title": "4 Guys RV Park",
-            "Summary": "",
+            "Summary": "4 Guys RV Park is a modern, full‑service RV campground located just minutes from Natural Bridge and the heart of Slade, offering easy access to the Red River Gorge Geological Area\t",
             "Phone": "(606) 663-4444",
             "Address": "10137 Campton Rd, Stanton, KY 40380",
             "Coords": "",
@@ -73,13 +70,29 @@
             "Facts": []
         },
         {
-            "Title": "New Kiosk Entry",
-            "Summary": "",
-            "Phone": "",
-            "Address": "",
+            "Title": "Koomer Ridge Campground",
+            "Summary": "Koomer Ridge Campground is a semi‑primitive forest campground within Natural Bridge State Resort Park, offering shaded sites, seasonal amenities, and direct trail access into the Red River Gorge Geological Area.\t",
+            "Phone": "(606)663-8100",
+            "Address": "Koomer Ridge Campground, Koomer Ridge Picnic Area Rd, Pine Ridge, KY 41360",
+            "Coords": "37.784076543773764, -83.63256701431729",
+            "Email": "",
+            "Website": "http://www.fs.usda.gov/recarea/dbnf/recreation/camping-cabins/recarea/?recid=39462&actid=29",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Land of the Arches Campground ",
+            "Summary": "A spacious, climber‑friendly campground in the Pine Ridge area, known for its relaxed atmosphere, hot showers, and close proximity to major climbing crags and the Red River Gorge Geological Area.",
+            "Phone": "(606)668-7074",
+            "Address": "5150 KY-715, Campton, KY 41301",
             "Coords": "",
             "Email": "",
-            "Website": "",
+            "Website": "https://landofarches.com/",
             "SocialSite": "",
             "promoLink": "",
             "docDescription": "",

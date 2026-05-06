@@ -2,31 +2,12 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Fire%26Safety.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-05T11:15:11Z"
+        "lastUpdated": "2026-05-06T12:18:28Z"
     },
     "kiosk": [
         {
-            "Title": "Updates Coming",
-            "Summary": "",
-            "Phone": "",
-            "Address": "",
-            "Coords": "",
-            "Email": "",
-            "Website": "",
-            "SocialSite": "",
-            "promoLink": "",
-            "docDescription": "",
-            "docLabel": "",
-            "ImageLinks": [],
-            "RadioArray": [],
-            "Facts": [
-                "",
-                "Various categories will be featured, such as fire, ems, & search & Rescue."
-            ]
-        },
-        {
             "Title": "Middlefork Volunteer Fire & Rescue",
-            "Summary": "This fire department serves the Natural Bridge state park & portions of the RRG. They are the leading agency for search & rescue operations in the RRG.",
+            "Summary": "Middlefork Volunteer Fire & Rescue is a dedicated rural emergency service serving the Pine Ridge and Rogers areas, providing fire protection, medical response, and rescue support for communities throughout the RRG.",
             "Phone": "(606) 663-9232",
             "Address": "9219 Campton Rd, Stanton, KY 40380",
             "Coords": "",
@@ -42,7 +23,7 @@
         },
         {
             "Title": "Wolfe County Volunteer Fire Dept.",
-            "Summary": "A local fire station located in Campton.",
+            "Summary": "Wolfe County Volunteer Fire Department is a community‑driven emergency service organization providing fire protection, rescue response, and public safety support throughout Wolfe County and the Red River Gorge area.\t",
             "Phone": "(606) 668-7030",
             "Address": "578 Main St, Campton, KY 41301",
             "Coords": "",

@@ -2,29 +2,56 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Cabins%26Rentals.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-25T12:03:08Z"
+        "lastUpdated": "2026-05-06T12:16:55Z"
     },
     "kiosk": [
         {
-            "Title": "Digital Magazine Coming Soon",
-            "Summary": "Updates coming soon. We're working on various digital publications and the systems that work with them. A Weekly Cabin & Rentals Catalog will be feaured soon. Slots will be limited to just 10 rentals per week.",
-            "Phone": "",
-            "Address": "",
+            "Title": "5 Star Cabin Rental",
+            "Summary": "This company offers a wide selection of modern, well‑appointed cabins throughout the Natural Bridge and Slade area, providing comfortable stays with quick access to the Red River Gorge Geological Area.\t",
+            "Phone": "(606)663-8858",
+            "Address": "12075 Campton Rd, Stanton, KY 40380",
             "Coords": "",
-            "Email": "AppSupport@RedRiverRecreations.com",
-            "Website": "www.RedRiverRecreations.com",
-            "SocialSite": "www.ko-fi.com/TheRedDeveloper",
+            "Email": "",
+            "Website": "https://www.redrivergorgecabinrentals.com/?utm_source=gmblisting&utm_medium=organic",
+            "SocialSite": "",
             "promoLink": "",
-            "docDescription": "Once available, users will be able to Tap & Hold this button to launch the document. This messages will update once the document is published by the developer or author.",
-            "docLabel": "Cabin Catalog",
+            "docDescription": "",
+            "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": [
-                "Advertising Guide",
-                "The Advertising Guide has not been published yet. Check back later for updates.",
-                "Once published, the Advertising Guide will help you understand in-app options for promos and advertisements.",
-                "The Red Mobile has no intentions of 3rd party advertising platforms. Instead, we offer exclusive access for advertising only to locals and relative entities."
-            ]
+            "Facts": []
+        },
+        {
+            "Title": "StayOver Cabin Rentals",
+            "Summary": "A dedicated, full‑service cabin management company offering well‑maintained, thoughtfully curated cabins throughout the Natural Bridge and Slade area, providing reliable guest support and convenient access to the Red River Gorge Geological Area.",
+            "Phone": "(606)268-8787",
+            "Address": "1142 KY-11, Campton, KY 41301",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://www.stayovernow.com/?utm_campaign=gmb",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Red River Gorge Cabin Rentals ",
+            "Summary": "Red River Gorge Cabin Rentals is a long‑established cabin company offering a wide range of rustic to upscale cabins across the Slade and Natural Bridge area, providing dependable service and convenient access to the Red River Gorge Geological Area\t.",
+            "Phone": "(844)692-2246",
+            "Address": "99 Eagle Ridge Rd, Campton, KY 41301",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://www.redrivergorgecabinrentals.com/?utm_source=GMBlisting&utm_medium=organic&utm_content=listing",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
         }
     ]
 }
