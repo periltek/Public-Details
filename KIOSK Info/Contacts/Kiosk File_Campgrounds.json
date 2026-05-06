@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Campgrounds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-05T11:41:12Z"
+        "lastUpdated": "2026-05-06T11:53:33Z"
     },
     "kiosk": [
         {
@@ -23,10 +23,10 @@
         },
         {
             "Title": "Whittleton Campground",
-            "Summary": "",
+            "Summary": "Whittleton Campground sits just off KY‑11 near Slade and serves as one of the two main campgrounds inside Natural Bridge State Resort Park. It provides a quiet, forested setting with sites suitable for tents and RVs, including electric hookups, drinking water, restrooms, and showers for convenience.",
             "Phone": "(606)663-2214",
-            "Address": "2135 Natural Bridge Rd, Slade, KY 40376",
-            "Coords": "",
+            "Address": "Q8JG+2F, 2135 Natural Bridge Rd, Slade, KY 40376",
+            "Coords": "37.78030264732745, -83.67371520816431",
             "Email": "tim.hibbard@ky.gov",
             "Website": "https://parks.ky.gov/parks/find-a-park/natural-bridge-state-resort-park-7796",
             "SocialSite": "",
@@ -35,7 +35,10 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                ""
+            ]
         },
         {
             "Title": "4 Guys RV Park",

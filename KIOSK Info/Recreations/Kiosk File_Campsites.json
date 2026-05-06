@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-05T12:38:18Z"
+        "lastUpdated": "2026-05-06T11:49:14Z"
     },
     "kiosk": [
         {
@@ -171,22 +171,6 @@
             "Phone": "",
             "Address": "3271 E Fork Indian Creek Rd, Frenchburg, KY 40322, United States",
             "Coords": "37.857628, -83.67516",
-            "Email": "",
-            "Website": "",
-            "SocialSite": "",
-            "promoLink": "",
-            "docDescription": "",
-            "docLabel": "",
-            "ImageLinks": [],
-            "RadioArray": [],
-            "Facts": []
-        },
-        {
-            "Title": "New Kiosk Entry",
-            "Summary": "",
-            "Phone": "",
-            "Address": "",
-            "Coords": "",
             "Email": "",
             "Website": "",
             "SocialSite": "",
