@@ -2,28 +2,56 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Info%26Learning.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-14T01:32:20Z"
+        "lastUpdated": "2026-05-07T01:19:53Z"
     },
     "kiosk": [
         {
-            "Title": "Updates on the Way",
-            "Description": "There is still much to do, and we're busy getting it done. These listings will be updated often as we continue developing it.",
-            "MoreInfo": "",
-            "Phone": "",
-            "Address": "",
+            "Title": "Red River Gorge Visitor Center",
+            "Summary": "A primary visitor hub for the RRG. It offers a variety of maps, exhibits, and information related to the region and recreations.",
+            "Phone": "(606)663-1161",
+            "Address": "30 L&E Railroad Pl, Slade, KY 40376",
             "Coords": "",
-            "Email": "AppSupport@RedRiverRecreations.com",
-            "Website": "www.RedRiverRecreations.com",
-            "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "iMatrix": {
-                "instanceID": 0
-            },
-            "autoLink": "",
+            "Email": "",
+            "Website": "https://gopoco.org/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": [],
-            "customPrefabLabel": "",
-            "customPrefabLink": ""
+            "Facts": []
+        },
+        {
+            "Title": "Gladie Visitor Center ",
+            "Summary": "",
+            "Phone": "(606)768-3341",
+            "Address": "3451 Sky Bridge Rd, Pine Ridge, KY 41360",
+            "Coords": "37.83432580273636, -83.6072805125441",
+            "Email": "",
+            "Website": "https://www.fs.usda.gov/r08/danielboone/recreation/gladie-visitor-center",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Junior Williamson Rest Area ",
+            "Summary": "A well‑maintained roadside stop along the Mountain Parkway, offering clean facilities, picnic areas, and a convenient break point for travelers heading to or from the Red River Gorge and surrounding communities.\t",
+            "Phone": "(606)471-2161",
+            "Address": "24 L and E Railroad Pl, Slade, KY 40376 ",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://transportation.ky.gov/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
         }
     ]
 }

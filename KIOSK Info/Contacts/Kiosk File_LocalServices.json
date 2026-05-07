@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_LocalServices.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-06T13:16:24Z"
+        "lastUpdated": "2026-05-07T01:22:36Z"
     },
     "kiosk": [
         {
@@ -30,6 +30,22 @@
             "Email": "",
             "Website": "",
             "SocialSite": "https://www.facebook.com/groups/3004366322914459",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Junior Williamson Rest Area",
+            "Summary": "A well‑maintained roadside stop along the Mountain Parkway, offering clean facilities, picnic areas, vending, and brochures for travelers heading to or from the RRG & surrounding communities.",
+            "Phone": "(606)471-2161",
+            "Address": "24 L&E Railroad Pl, Slade, KY 40376",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://transportation.ky.gov/",
+            "SocialSite": "",
             "promoLink": "",
             "docDescription": "",
             "docLabel": "",
