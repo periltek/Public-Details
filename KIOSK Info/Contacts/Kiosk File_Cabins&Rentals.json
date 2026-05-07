@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Cabins%26Rentals.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-06T12:16:55Z"
+        "lastUpdated": "2026-05-07T02:23:24Z"
     },
     "kiosk": [
         {
@@ -45,6 +45,22 @@
             "Coords": "",
             "Email": "",
             "Website": "https://www.redrivergorgecabinrentals.com/?utm_source=GMBlisting&utm_medium=organic&utm_content=listing",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Natural Bridge Cabin Company",
+            "Summary": "Offering a wide range of cabin rentals throughout the Natural Bridge and Red River Gorge area, with properties located near Spirit Lake, Cave Hollow, Mill Creek Lake, the Red River Gorge Scenic Byway, and Cliffview Resort. ",
+            "Phone": "(606)663-3700",
+            "Address": "1231 Natural Bridge Rd, Slade, KY 40376",
+            "Coords": "",
+            "Email": "",
+            "Website": "http://www.nbcabins.com/",
             "SocialSite": "",
             "promoLink": "",
             "docDescription": "",

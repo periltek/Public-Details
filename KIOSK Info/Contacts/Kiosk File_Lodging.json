@@ -2,28 +2,72 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Lodging.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-14T01:34:07Z"
+        "lastUpdated": "2026-05-07T02:38:59Z"
     },
     "kiosk": [
         {
-            "Title": "We're Working On it",
-            "Description": "There is still much to do, and we're busy getting it done. These listings will be updated often as we continue developing it.",
-            "MoreInfo": "",
-            "Phone": "",
-            "Address": "",
+            "Title": "Li'l Abner Motel & Cottages ",
+            "Summary": "Simple, comfortable rooms and standalone cottages in the heart of Slade, giving visitors an easy, convenient base just minutes from Natural Bridge and the Red River Gorge.",
+            "Phone": "(606)663-5384",
+            "Address": "1000 Natural Bridge Rd, Slade, KY 40376",
             "Coords": "",
-            "Email": "AppSupport@RedRiverRecreations.com",
-            "Website": "www.RedRiverRecreations.com",
-            "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "iMatrix": {
-                "instanceID": 0
-            },
-            "autoLink": "",
+            "Email": "",
+            "Website": "http://www.lilabnersmotel.com/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": [],
-            "customPrefabLabel": "",
-            "customPrefabLink": ""
+            "Facts": []
+        },
+        {
+            "Title": "Black Bear Lodge Motel ",
+            "Summary": "Simple, comfortable rooms in a quiet, wooded setting near the Red River Gorge, giving visitors an easy, affordable place to stay just minutes from many local attractions.",
+            "Phone": "(606)663-0061",
+            "Address": "781 Natural Bridge Rd, Slade, KY 40376",
+            "Coords": "",
+            "Email": "",
+            "Website": "http://www.sceniccabin.com/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Red River Gorge Inn ",
+            "Summary": "Straightforward, affordable lodging in Slade, giving visitors a convenient base close to Natural Bridge, the Gorge, and nearby dining and attractions.",
+            "Phone": "(606)668-7072",
+            "Address": "182 Quillens Chapel Service Rd, Campton, KY 41301",
+            "Coords": "",
+            "Email": "",
+            "Website": "http://www.redrivergorgeinn.com",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Abner Motel",
+            "Summary": "simple, budget‑friendly rooms with easy access to downtown Stanton, making it a convenient stay for travelers exploring the Red River Gorge and surrounding Powell County attractions.",
+            "Phone": "(606)663-4379",
+            "Address": "87 E College Ave, Stanton, KY 40380",
+            "Coords": "",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "https://www.facebook.com/AbnersMotel/",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
         }
     ]
 }

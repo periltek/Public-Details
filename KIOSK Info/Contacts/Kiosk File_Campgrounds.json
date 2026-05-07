@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Campgrounds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-06T12:15:21Z"
+        "lastUpdated": "2026-05-07T02:10:00Z"
     },
     "kiosk": [
         {
@@ -93,6 +93,22 @@
             "Coords": "",
             "Email": "",
             "Website": "https://landofarches.com/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Middle Fork Campground ",
+            "Summary": "Middle Fork Campground is a quiet, wooded campground near the Red River Gorge, offering shaded sites, basic amenities, and easy access to nearby trails and scenic backroads throughout the Pine Ridge and Campton area.",
+            "Phone": "(606)663-2214",
+            "Address": "2135 Natural Bridge Rd, Slade, KY 40376",
+            "Coords": "",
+            "Email": "",
+            "Website": "http://parks.ky.gov/parks/resortparks/natural-bridge/",
             "SocialSite": "",
             "promoLink": "",
             "docDescription": "",
