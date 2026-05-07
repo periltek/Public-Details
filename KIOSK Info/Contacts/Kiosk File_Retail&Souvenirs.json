@@ -2,28 +2,40 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Retail%26Souvenirs.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-14T01:35:03Z"
+        "lastUpdated": "2026-05-07T03:22:43Z"
     },
     "kiosk": [
         {
-            "Title": "Shoppers Stay Tuned",
-            "Description": "There is still much to do, and we're busy getting it done. These listings will be updated often as we continue developing it.",
-            "MoreInfo": "",
+            "Title": "Mushroom Grove Shopping Village",
+            "Summary": "A whimsical, artisan‑style marketplace featuring handmade goods, local crafts, and nature‑inspired gifts, offering visitors a charming, creative stop near the Red River Gorge.",
+            "Phone": "",
+            "Address": "9901 Campton Rd, Stanton, KY 40380",
+            "Coords": "",
+            "Email": "",
+            "Website": "http://www.mushroomgroveshoppingvillage.com/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "New Kiosk Entry",
+            "Summary": "",
             "Phone": "",
             "Address": "",
             "Coords": "",
-            "Email": "AppSupport@RedRiverRecreations.com",
-            "Website": "www.RedRiverRecreations.com",
-            "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "iMatrix": {
-                "instanceID": 0
-            },
-            "autoLink": "",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": [],
-            "customPrefabLabel": "",
-            "customPrefabLink": ""
+            "Facts": []
         }
     ]
 }

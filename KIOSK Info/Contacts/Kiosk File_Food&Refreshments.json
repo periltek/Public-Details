@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Food%26Refreshments.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-07T03:09:23Z"
+        "lastUpdated": "2026-05-07T03:25:28Z"
     },
     "kiosk": [
         {
@@ -254,6 +254,38 @@
             "Email": "",
             "Website": "",
             "SocialSite": "https://m.facebook.com/people/My-Little-Finca-Clay-City/100090182403855/",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Drizzle and Glaze Donuts",
+            "Summary": "A sweet little Stanton stop known for fresh, soft donuts, creative flavors, and friendly hometown service—perfect for grabbing a treat on the way to the Red River Gorge.",
+            "Phone": "(606)945-4080",
+            "Address": "10579 Campton Rd, Stanton, KY 40380",
+            "Coords": "",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "https://www.facebook.com/share/17Xpt9vE8B/",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Toad's BARn and Grill ",
+            "Summary": "A lively, down‑home hangout in Stanton, serving hearty pub fare, cold drinks, and friendly small‑town hospitality that makes it a fun stop for locals and Red River Gorge travelers alike.",
+            "Phone": "(606)481-3828",
+            "Address": "9943 Campton Rd, Stanton, KY 40380",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://toadsbarnandgrill.com/",
+            "SocialSite": "",
             "promoLink": "",
             "docDescription": "",
             "docLabel": "",
