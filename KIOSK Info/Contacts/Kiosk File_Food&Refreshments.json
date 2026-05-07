@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Food%26Refreshments.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-07T03:25:28Z"
+        "lastUpdated": "2026-05-07T03:32:16Z"
     },
     "kiosk": [
         {
@@ -285,6 +285,22 @@
             "Coords": "",
             "Email": "",
             "Website": "https://toadsbarnandgrill.com/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "RedPoint Barbeque ",
+            "Summary": "A laid‑back Slade favorite serving smoked meats, hearty sides, and a relaxed, trail‑friendly atmosphere—making it a convenient stop for hungry visitors exploring the Red River Gorge.",
+            "Phone": "(606)668-7000",
+            "Address": "356 Jim Smith Road, Campton, KY 41301",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://www.redpointbbq.com/",
             "SocialSite": "",
             "promoLink": "",
             "docDescription": "",

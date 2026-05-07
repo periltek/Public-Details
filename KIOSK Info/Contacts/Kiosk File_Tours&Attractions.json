@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Tours%26Attractions.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-07T01:47:37Z"
+        "lastUpdated": "2026-05-07T03:31:07Z"
     },
     "kiosk": [
         {
@@ -94,6 +94,38 @@
             "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "www.RedRiverRecreations.com",
             "SocialSite": "https://www.facebook.com/TheRedMobile",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Kentucky Reptile Zoo",
+            "Summary": "A world‑renowned venom research and education center in Slade, featuring one of the largest venomous snake collections anywhere and offering live demonstrations, tours, and up‑close learning experiences for visitors exploring the Red River Gorge.",
+            "Phone": "(606)663-9160",
+            "Address": "200 L&E Railroad Pl, Bowen, KY 40380",
+            "Coords": "",
+            "Email": "",
+            "Website": "http://www.kyreptilezoo.org/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Thrillsville Adventure Golf",
+            "Summary": "A family‑friendly mini‑golf course in Slade, featuring creative obstacles, cave‑themed décor, and fun, easygoing play that makes it a great stop for visitors exploring the Red River Gorge.",
+            "Phone": "",
+            "Address": "693 Natural Bridge Rd, Slade, KY 40376",
+            "Coords": "",
+            "Email": "",
+            "Website": "http://thrillsvilleadventuregolf.com/",
+            "SocialSite": "",
             "promoLink": "",
             "docDescription": "",
             "docLabel": "",
