@@ -2,28 +2,104 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Tours%26Attractions.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-14T01:35:26Z"
+        "lastUpdated": "2026-05-07T01:47:37Z"
     },
     "kiosk": [
         {
-            "Title": "Planned Updates",
-            "Description": "There is still much to do, and we're busy getting it done. These listings will be updated often as we continue developing it.",
-            "MoreInfo": "",
+            "Title": "Gorge Underground ",
+            "Summary": "Gorge Underground is a unique adventure attraction in an old limestone mine beneath Red River Gorge, offering guided boat and kayak tours through its illuminated, glass‑calm subterranean lake for a one‑of‑a‑kind underground experience.\t",
+            "Phone": "(859)407-5844",
+            "Address": "2478 Glencairn Rd, Rogers, KY 41365",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://gorgeunderground.com/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "SUP Kentucky ",
+            "Summary": "SUP Kentucky offers guided stand‑up paddleboard experiences in both open‑air and underground settings, including their signature glow‑in‑the‑dark tours inside the flooded limestone mine, providing a calm, immersive way to explore the Red River Gorge from the water.\t",
+            "Phone": "(859)407-5844",
+            "Address": "2478 Glencairn Rd, Rogers, KY 41365",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://www.supkentucky.com/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Red River Gorge Adventure ",
+            "Summary": "Red River Gorge Adventure is an outdoor guiding and rental company offering zipline tours, climbing experiences, and off‑road excursions throughout the Slade and Natural Bridge area, providing hands‑on adventure options for visitors exploring the Red River Gorge.",
+            "Phone": "(859)300-1330",
+            "Address": "2138 Natural Bridge Rd, Slade, KY 40376",
+            "Coords": "",
+            "Email": "",
+            "Website": "http://www.redriveradventure.net/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Natural Bridge Sky Lift Inc. ",
+            "Summary": "Natural Bridge Sky Lift Inc. operates the iconic chairlift carrying visitors from the base of Natural Bridge State Resort Park to the sandstone arch, offering an easy, scenic ascent with sweeping views of the forested ridges and cliffs of the Red River Gorge.",
+            "Phone": "(606)6632922",
+            "Address": "607 Skylift Dr, Slade, KY 40376",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://naturalbridgeskyliftandgiftshop.com/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Southeast Mountain Guides ",
+            "Summary": "A premier climbing and via ferrata outfitter in the Red River Gorge, known for its world‑class guided routes, professional instruction, and the iconic Via Ferrata that offers a secure, high‑exposure climbing experience for adventurers of all skill levels.",
+            "Phone": "(606)668-6613",
+            "Address": "1617 KY-11, Campton, KY 41301",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://www.southeastmountainguides.com/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Featured Listings Coming",
+            "Summary": "Each listing is carefully curated by hand, with new entries added as we continue gathering verified information. If you’d like your business included, feel free to reach out for guidance.",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "www.RedRiverRecreations.com",
-            "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "iMatrix": {
-                "instanceID": 0
-            },
-            "autoLink": "",
+            "SocialSite": "https://www.facebook.com/TheRedMobile",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": [],
-            "customPrefabLabel": "",
-            "customPrefabLink": ""
+            "Facts": []
         }
     ]
 }
