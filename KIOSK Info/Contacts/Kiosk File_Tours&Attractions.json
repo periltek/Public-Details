@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Tours%26Attractions.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-10T05:41:54Z"
+        "lastUpdated": "2026-05-10T06:17:01Z"
     },
     "kiosk": [
         {
@@ -134,20 +134,23 @@
             "Facts": []
         },
         {
-            "Title": "Missing Listing?",
-            "Summary": "We are still in the procress of building the framework. If you would like to ensure your listing makes it here, please reach out to us for more help.",
+            "Title": "Missing Details?",
+            "Summary": "We are still in the procress of building the framework. If you would like to ensure your listing makes it here or would like specific wording, please reach out to us for more help.",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
-            "Website": "https://www.ko-fi.com/TheRedDev",
+            "Website": "https://ko-fi.com/thereddeveloper",
             "SocialSite": "https://www.facebook.com/TheRedMobile/",
             "promoLink": "",
             "docDescription": "",
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "We'll release a digital guide soon, which will provide an overview of various types of details capable of delivery through the app."
+            ]
         }
     ]
 }
