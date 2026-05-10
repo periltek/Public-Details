@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Campgrounds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-07T02:10:00Z"
+        "lastUpdated": "2026-05-08T13:53:25Z"
     },
     "kiosk": [
         {
@@ -109,6 +109,54 @@
             "Coords": "",
             "Email": "",
             "Website": "http://parks.ky.gov/parks/resortparks/natural-bridge/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "South Fork Red River Campground",
+            "Summary": "A quiet, riverside retreat near the Red River Gorge, offering shaded campsites, easy water access, and a peaceful, back‑to‑nature setting ideal for tent campers and paddlers exploring the South Fork corridor.",
+            "Phone": "(859)404-3680",
+            "Address": "",
+            "Coords": "37.825386, -83.755651",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Callies Lake And Campground",
+            "Summary": "A spacious, family‑friendly retreat in Red River Gorge, featuring a large spring‑fed lake for swimming, roomy campsites, and a relaxed festival‑style atmosphere that makes it a popular base for groups, events, and weekend getaways.",
+            "Phone": "(859)551-0376",
+            "Address": "5515 Campton Rd, Stanton, KY 40380",
+            "Coords": "37.835354, -83.781209",
+            "Email": "",
+            "Website": "https://www.callieslakeandcampground.com/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Red River Paylake & Campground",
+            "Summary": "A relaxed, fisherman‑friendly spot in Stanton, offering stocked paylake fishing, simple campsites, and a quiet, laid‑back atmosphere just minutes from downtown and the Red River Gorge.",
+            "Phone": "(606)548-8935",
+            "Address": "847 Breckenridge St, Stanton, KY 40380",
+            "Coords": "",
+            "Email": "",
+            "Website": "",
             "SocialSite": "",
             "promoLink": "",
             "docDescription": "",

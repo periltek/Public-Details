@@ -2,48 +2,46 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_OurTeam.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-14T01:34:36Z"
+        "lastUpdated": "2026-05-10T01:44:10Z"
     },
     "kiosk": [
         {
-            "Title": "Volunteers",
-            "Description": "Contact us to learn about various volunteer options that may be open. ",
-            "MoreInfo": "",
+            "Title": "Join the Team Behind The Red",
+            "Summary": "The Red – RRG Mobile App is the first digital kiosk and community‑driven information hub built for the Red River Gorge, Natural Bridge, and the surrounding towns that make this region unforgettable. As we grow, we’re looking for passionate individuals who want to help shape the future of this platform.",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "www.RedRiverRecreations.com",
             "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "iMatrix": {
-                "instanceID": 0
-            },
-            "autoLink": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": [],
-            "customPrefabLabel": "",
-            "customPrefabLink": ""
+            "Facts": [
+                "",
+                "Whether you’re a local resident, a frequent visitor, a creative mind, or someone who simply loves the region, there’s a place for you here as we build a Community‑Powered Platform on a simple idea: when the community grows, everyone grows with it. ",
+                "That’s why our early team members and volunteers participate in a profit‑sharing model, where tips and contributions from users are divided among the people actively helping develop, manage, or support the platform.",
+                "These early roles are limited as we establish our foundation, but they are also the first step toward something much bigger.",
+                "Right now, we’re building a small, dedicated team to help with:  App development support  Content creation (articles, footage, updates, local highlights)  Community engagement and moderation  Research, data gathering, and regional information updates  Social media and platform management  As the platform expands, so will the opportunities"
+            ]
         },
         {
             "Title": "Help & Support",
-            "Description": "Contact the team as a whole via facebook or contact the developer directly via email.",
-            "MoreInfo": "",
+            "Summary": "",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "",
             "SocialSite": "Facebook.com/TheRedMobile",
-            "iMatrix": {
-                "instanceID": 0
-            },
-            "autoLink": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": [],
-            "customPrefabLabel": "",
-            "customPrefabLink": ""
+            "Facts": []
         }
     ]
 }

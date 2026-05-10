@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Retail%26Souvenirs.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-07T03:22:43Z"
+        "lastUpdated": "2026-05-08T14:16:03Z"
     },
     "kiosk": [
         {
@@ -22,14 +22,62 @@
             "Facts": []
         },
         {
-            "Title": "New Kiosk Entry",
+            "Title": "Red River Gorge Earth Shop",
+            "Summary": "A nature‑inspired gift and supply store in Slade, offering crystals, minerals, handcrafted goods, outdoor essentials, and unique Gorge‑themed souvenirs.",
+            "Phone": "(606)668-5228",
+            "Address": "888 Natural Bridge Rd, Slade, KY 40376",
+            "Coords": "",
+            "Email": "",
+            "Website": "http://earthshopatredrivergorge.com/?utm_source=GMBlisting&utm_medium=organic&utm_content=listing",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Red River Gorge General Store",
+            "Summary": "A longtime Slade landmark, offering snacks, drinks, camping supplies, souvenirs, and trail‑friendly essentials—making it one of the most convenient and reliable stops for visitors exploring the Red River Gorge.",
+            "Phone": "(606)668-5917",
+            "Address": "1321 Natural Bridge Rd, Slade, KY 40376",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://redrivergorgegeneralstore.com/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Miguel's Rock Climbing Shop",
             "Summary": "",
-            "Phone": "",
-            "Address": "",
+            "Phone": "(606)6633650",
+            "Address": "1960 Natural Bridge Rd, Slade, KY 40376",
+            "Coords": "",
+            "Email": "",
+            "Website": "http://www.miguelsrockclimbingshop.com/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Rick's Music & Electronic Shop",
+            "Summary": "a longtime Stanton staple offering guitars, amps, keyboards, cables, repair services, and a mix of new and used electronics. A go‑to stop for musicians, hobbyists, and anyone needing gear or tech support in the Red River Gorge region.",
+            "Phone": "(606)663-4087",
+            "Address": "2833 Main St #8988, Clay City, KY 40312",
             "Coords": "",
             "Email": "",
             "Website": "",
-            "SocialSite": "",
+            "SocialSite": "https://www.facebook.com/profile.php?id=100057176181480",
             "promoLink": "",
             "docDescription": "",
             "docLabel": "",

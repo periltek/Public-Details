@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Food%26Refreshments.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-07T03:32:16Z"
+        "lastUpdated": "2026-05-08T13:29:27Z"
     },
     "kiosk": [
         {
@@ -301,6 +301,38 @@
             "Coords": "",
             "Email": "",
             "Website": "https://www.redpointbbq.com/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Hop's",
+            "Summary": "A cozy Stanton café known for its fresh coffee, homemade pastries, and relaxed small‑town vibe.",
+            "Phone": "(606)668-7302",
+            "Address": "2613 KY-11, Campton, KY 41301 ",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://www.hopsfarmtotable.com/#/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "The Gypsy Grind Coffee Company",
+            "Summary": "A vibrant, boho‑styled coffee stop in Slade, known for its handcrafted espresso drinks, creative seasonal flavors, and warm, artsy atmosphere—making it a favorite recharge spot for Red River Gorge hikers, climbers, and travelers.",
+            "Phone": "(859)585-7310",
+            "Address": "9901 Campton Rd, Stanton, KY 40380",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://gypsygrind.com/",
             "SocialSite": "",
             "promoLink": "",
             "docDescription": "",

@@ -2,28 +2,24 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Historical.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-04-14T01:31:47Z"
+        "lastUpdated": "2026-05-08T14:10:57Z"
     },
     "kiosk": [
         {
-            "Title": "Updates Coming",
-            "Description": "There is still much to do, and we're busy getting it done. These listings will be updated often as we continue developing it.",
-            "MoreInfo": "",
+            "Title": "Red River Museum ",
+            "Summary": "A local history museum in Clay City, housed in the former Clay City National Bank building (built in 1890), featuring exhibits on Powell County’s heritage.",
             "Phone": "",
-            "Address": "",
+            "Address": "4541 Main St, Clay City, KY 40312",
             "Coords": "",
-            "Email": "AppSupport@RedRiverRecreations.com",
-            "Website": "www.RedRiverRecreations.com",
-            "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "iMatrix": {
-                "instanceID": 0
-            },
-            "autoLink": "",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "https://www.facebook.com/profile.php?id=100057134303932#",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": [],
-            "customPrefabLabel": "",
-            "customPrefabLink": ""
+            "Facts": []
         }
     ]
 }
