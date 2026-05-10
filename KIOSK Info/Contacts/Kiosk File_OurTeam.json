@@ -2,12 +2,12 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_OurTeam.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-10T01:44:10Z"
+        "lastUpdated": "2026-05-10T03:03:43Z"
     },
     "kiosk": [
         {
             "Title": "Join the Team Behind The Red",
-            "Summary": "The Red – RRG Mobile App is the first digital kiosk and community‑driven information hub built for the Red River Gorge, Natural Bridge, and the surrounding towns that make this region unforgettable. As we grow, we’re looking for passionate individuals who want to help shape the future of this platform.",
+            "Summary": "Red Mobile is the first digital kiosk and community‑driven information hub built for the Red River Gorge, Natural Bridge, & surrounding region. As we grow, we’re looking for passionate individuals who want to help shape the future of this platform.",
             "Phone": "",
             "Address": "",
             "Coords": "",
@@ -20,11 +20,12 @@
             "ImageLinks": [],
             "RadioArray": [],
             "Facts": [
-                "",
-                "Whether you’re a local resident, a frequent visitor, a creative mind, or someone who simply loves the region, there’s a place for you here as we build a Community‑Powered Platform on a simple idea: when the community grows, everyone grows with it. ",
-                "That’s why our early team members and volunteers participate in a profit‑sharing model, where tips and contributions from users are divided among the people actively helping develop, manage, or support the platform.",
-                "These early roles are limited as we establish our foundation, but they are also the first step toward something much bigger.",
-                "Right now, we’re building a small, dedicated team to help with:  App development support  Content creation (articles, footage, updates, local highlights)  Community engagement and moderation  Research, data gathering, and regional information updates  Social media and platform management  As the platform expands, so will the opportunities"
+                "tester",
+                "Whether you’re a local resident, a frequent visitor, a creative mind, or someone who simply loves the region, there’s a place for you here.",
+                "A Community‑Powered Platform built on a simple principle: when the community grows, everyone grows with it.",
+                "These early roles are limited for now as we establish our foundation. They are also the first step toward something much bigger.",
+                "For now, we’re building a small, dedicated team of volunteers to help as we stucture the groundwork for the platform.",
+                "Our early team members & volunteers can participate in a profit‑sharing model, where various contributions are divided among those actively helping to develop, manage, or support the platform."
             ]
         },
         {
