@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_OurTeam.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-10T03:03:43Z"
+        "lastUpdated": "2026-05-10T03:05:59Z"
     },
     "kiosk": [
         {
@@ -20,9 +20,9 @@
             "ImageLinks": [],
             "RadioArray": [],
             "Facts": [
-                "tester",
-                "Whether you’re a local resident, a frequent visitor, a creative mind, or someone who simply loves the region, there’s a place for you here.",
+                "",
                 "A Community‑Powered Platform built on a simple principle: when the community grows, everyone grows with it.",
+                "Whether you’re a local resident, a frequent visitor, a creative mind, or someone who simply loves the region, there’s a place for you here.",
                 "These early roles are limited for now as we establish our foundation. They are also the first step toward something much bigger.",
                 "For now, we’re building a small, dedicated team of volunteers to help as we stucture the groundwork for the platform.",
                 "Our early team members & volunteers can participate in a profit‑sharing model, where various contributions are divided among those actively helping to develop, manage, or support the platform."
