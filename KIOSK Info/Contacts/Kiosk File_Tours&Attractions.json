@@ -2,12 +2,12 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Tours%26Attractions.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-10T04:27:31Z"
+        "lastUpdated": "2026-05-10T04:32:24Z"
     },
     "kiosk": [
         {
             "Title": "Gorge Underground ",
-            "Summary": "Gorge Underground is a unique adventure attraction in an old limestone mine beneath Red River Gorge, offering guided boat and kayak tours through its illuminated, glass‑calm subterranean lake for a one‑of‑a‑kind underground experience.\t",
+            "Summary": "Guided boat and kayak tours providing unique experiences through glass‑calm waters in an underground setting.",
             "Phone": "(859)407-5844",
             "Address": "2478 Glencairn Rd, Rogers, KY 41365",
             "Coords": "",
@@ -39,7 +39,7 @@
         },
         {
             "Title": "Red River Gorge Adventure ",
-            "Summary": "Red River Gorge Adventure is an outdoor guiding and rental company offering zipline tours, climbing experiences, and off‑road excursions throughout the Slade and Natural Bridge area, providing hands‑on adventure options for visitors exploring the Red River Gorge.",
+            "Summary": "An outdoor guiding and rental company offering zipline tours, climbing experiences, and off‑road excursions throughout the Slade and Natural Bridge area, providing hands‑on adventure options for visitors exploring the RRG.",
             "Phone": "(859)300-1330",
             "Address": "2138 Natural Bridge Rd, Slade, KY 40376",
             "Coords": "",
@@ -55,7 +55,7 @@
         },
         {
             "Title": "Natural Bridge Sky Lift Inc. ",
-            "Summary": "Natural Bridge Sky Lift Inc. operates the iconic chairlift carrying visitors from the base of Natural Bridge State Resort Park to the sandstone arch, offering an easy, scenic ascent with sweeping views of the forested ridges and cliffs of the Red River Gorge.",
+            "Summary": "The iconic chairlift carrying visitors from the base of Natural Bridge State Resort Park to the sandstone arch, offering an easy, scenic ascent with sweeping views of the forested ridges and cliffs of the Red River Gorge.",
             "Phone": "(606)6632922",
             "Address": "607 Skylift Dr, Slade, KY 40376",
             "Coords": "",
