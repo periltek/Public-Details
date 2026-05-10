@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Tours%26Attractions.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-10T04:32:24Z"
+        "lastUpdated": "2026-05-10T05:41:54Z"
     },
     "kiosk": [
         {
@@ -86,14 +86,14 @@
             "Facts": []
         },
         {
-            "Title": "Featured Listings Coming",
-            "Summary": "Each listing is carefully curated by hand, with new entries added as we continue gathering verified information. If you’d like your business included, feel free to reach out for guidance.",
-            "Phone": "",
-            "Address": "",
+            "Title": "Red River Gorge Ziplines",
+            "Summary": "A top‑rated adventure attraction in the RRG, offering a five‑line canopy tour that sends riders soaring up to 300 feet above the Gorge with lines reaching over 1,900 feet in length. ",
+            "Phone": "(606)668-9930",
+            "Address": "455 Cliffview Rd, Campton, KY 41301",
             "Coords": "",
-            "Email": "AppSupport@RedRiverRecreations.com",
-            "Website": "www.RedRiverRecreations.com",
-            "SocialSite": "https://www.facebook.com/TheRedMobile",
+            "Email": "",
+            "Website": "https://redrivergorgezipline.com/",
+            "SocialSite": "",
             "promoLink": "",
             "docDescription": "",
             "docLabel": "",
@@ -126,6 +126,22 @@
             "Email": "",
             "Website": "http://thrillsvilleadventuregolf.com/",
             "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Missing Listing?",
+            "Summary": "We are still in the procress of building the framework. If you would like to ensure your listing makes it here, please reach out to us for more help.",
+            "Phone": "",
+            "Address": "",
+            "Coords": "",
+            "Email": "AppSupport@RedRiverRecreations.com",
+            "Website": "https://www.ko-fi.com/TheRedDev",
+            "SocialSite": "https://www.facebook.com/TheRedMobile/",
             "promoLink": "",
             "docDescription": "",
             "docLabel": "",
