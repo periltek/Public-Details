@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Tours%26Attractions.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-10T06:17:01Z"
+        "lastUpdated": "2026-05-11T04:12:11Z"
     },
     "kiosk": [
         {
@@ -125,6 +125,22 @@
             "Coords": "",
             "Email": "",
             "Website": "http://thrillsvilleadventuregolf.com/",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Red River Gorge Air Tours ",
+            "Summary": "",
+            "Phone": "(859)379-4993",
+            "Address": "102 Plum St, Stanton, KY 40380",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://redrivergorgeairtours.com/",
             "SocialSite": "",
             "promoLink": "",
             "docDescription": "",

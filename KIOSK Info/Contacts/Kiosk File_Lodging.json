@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Lodging.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-07T02:38:59Z"
+        "lastUpdated": "2026-05-11T03:00:10Z"
     },
     "kiosk": [
         {
@@ -62,6 +62,38 @@
             "Email": "",
             "Website": "",
             "SocialSite": "https://www.facebook.com/AbnersMotel/",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Hike On Inn",
+            "Summary": "Pending update: Check back later for more details related to this entity/listing.",
+            "Phone": "",
+            "Address": "",
+            "Coords": "",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Three Rivers Inn",
+            "Summary": "A clean, budget‑friendly motel in Beattyville, offering simple rooms, easy parking, and a quiet setting near the confluence of the Kentucky, North Fork, and South Fork rivers",
+            "Phone": "(606)620-9078",
+            "Address": "1165 KY-11, Beattyville, KY 41311",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://3riversinn.com/",
+            "SocialSite": "",
             "promoLink": "",
             "docDescription": "",
             "docLabel": "",

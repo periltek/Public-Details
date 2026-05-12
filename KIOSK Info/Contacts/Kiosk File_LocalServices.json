@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_LocalServices.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-07T01:22:36Z"
+        "lastUpdated": "2026-05-12T02:08:58Z"
     },
     "kiosk": [
         {
@@ -46,6 +46,22 @@
             "Email": "",
             "Website": "https://transportation.ky.gov/",
             "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Red River Graphix",
+            "Summary": "",
+            "Phone": "(606)668-3075",
+            "Address": "317 Main St, Campton, KY 41301",
+            "Coords": "",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "https://www.facebook.com/redrivergraphix",
             "promoLink": "",
             "docDescription": "",
             "docLabel": "",

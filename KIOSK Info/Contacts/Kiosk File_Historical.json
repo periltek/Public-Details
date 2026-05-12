@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Historical.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-08T14:10:57Z"
+        "lastUpdated": "2026-05-12T02:57:22Z"
     },
     "kiosk": [
         {
@@ -14,6 +14,22 @@
             "Email": "",
             "Website": "",
             "SocialSite": "https://www.facebook.com/profile.php?id=100057134303932#",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Wolfe County Historical Museum",
+            "Summary": "Update pending: Verifying information.",
+            "Phone": "",
+            "Address": "235 Main St, Campton, KY 41301",
+            "Coords": "",
+            "Email": "",
+            "Website": "",
+            "SocialSite": "",
             "promoLink": "",
             "docDescription": "",
             "docLabel": "",

@@ -2,23 +2,22 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Articles.json",
         "fallbackUrl": "",
-        "lastUpdated": "2025-12-20T14:28:27Z"
+        "lastUpdated": "2026-05-12T12:20:16Z"
     },
     "kiosk": [
         {
             "Title": "Articles",
-            "Description": "Check here for articles related to the RRG region, the areas around it, it's history, mysteries, and more...",
-            "MoreInfo": "Potential contributions may be submitted to us via email or through our social media pages linked below .",
+            "Summary": "We're composing several digital magazines exploring various aspects of the RRG. We will publish them digitally once they are ready for viewing. Thank you for your patience.",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "www.RedRiverRecreations.com",
             "SocialSite": "https://www.facebook.com/TheRedMobile/",
-            "ImageLinks": [
-                "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Red%20Express/Gorge%202%20Go/Gorge2Go.png",
-                "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/General%20Info/%23UnderDevelopment.png"
-            ],
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
             "RadioArray": [],
             "Facts": []
         }

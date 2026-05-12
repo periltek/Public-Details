@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Campgrounds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-08T13:53:25Z"
+        "lastUpdated": "2026-05-12T01:48:19Z"
     },
     "kiosk": [
         {
@@ -157,6 +157,22 @@
             "Coords": "",
             "Email": "",
             "Website": "",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Woodstock Campground",
+            "Summary": "",
+            "Phone": "(606)362-5895",
+            "Address": "KY-715, Pine Ridge, KY 41360",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://www.kentuckyhiker.com/woodstock",
             "SocialSite": "",
             "promoLink": "",
             "docDescription": "",

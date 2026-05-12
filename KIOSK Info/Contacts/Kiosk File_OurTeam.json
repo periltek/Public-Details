@@ -2,47 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_OurTeam.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-10T03:48:18Z"
+        "lastUpdated": "2026-05-12T01:51:17Z"
     },
-    "kiosk": [
-        {
-            "Title": "Join the Team Behind The Red",
-            "Summary": "Red Mobile is the first digital kiosk and community‑driven information hub built for the Red River Gorge, Natural Bridge, & surrounding region. As we grow, we’re looking for passionate individuals who want to help shape the future of this platform.",
-            "Phone": "",
-            "Address": "",
-            "Coords": "",
-            "Email": "AppSupport@RedRiverRecreations.com",
-            "Website": "www.RedRiverRecreations.com",
-            "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "promoLink": "",
-            "docDescription": "",
-            "docLabel": "",
-            "ImageLinks": [],
-            "RadioArray": [],
-            "Facts": [
-                "Volunteer_Guide",
-                "A Community‑Powered Platform built on a simple principle: when the community grows, everyone grows with it.",
-                "Whether you’re a local resident, a frequent visitor, a creative mind, or someone who simply loves the region, there’s a place for you here.",
-                "These early roles are limited for now as we establish our foundation. They are also the first step toward something much bigger.",
-                "For now, we’re building a small, dedicated team of volunteers to help as we stucture the groundwork for the platform.",
-                "Our early team members & volunteers can participate in a profit‑sharing model, where various contributions are divided among those actively helping to develop, manage, or support the platform."
-            ]
-        },
-        {
-            "Title": "Help & Support",
-            "Summary": "",
-            "Phone": "",
-            "Address": "",
-            "Coords": "",
-            "Email": "AppSupport@RedRiverRecreations.com",
-            "Website": "",
-            "SocialSite": "Facebook.com/TheRedMobile",
-            "promoLink": "",
-            "docDescription": "",
-            "docLabel": "",
-            "ImageLinks": [],
-            "RadioArray": [],
-            "Facts": []
-        }
-    ]
+    "kiosk": []
 }

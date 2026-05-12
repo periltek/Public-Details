@@ -2,20 +2,24 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2025-12-08T20:10:03Z"
+        "lastUpdated": "2026-05-12T12:14:23Z"
     },
     "kiosk": [
         {
-            "Title": "Test Kiosk Entry",
-            "Description": "Test",
-            "MoreInfo": "Test Kiosk Entry Only. Please dis-regard this test",
+            "Title": "Updates Pending",
+            "Summary": "We're still compiling details for the Events registry. To submit information for a new event, please contact us to learn more.",
             "Phone": "",
             "Address": "",
             "Coords": "",
-            "Email": "",
-            "Website": "",
+            "Email": "AppSupport@RedRiverRecreations.com",
+            "Website": "www.RedRiverRecreations.com",
             "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "ImageLinks": []
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
         }
     ]
 }
