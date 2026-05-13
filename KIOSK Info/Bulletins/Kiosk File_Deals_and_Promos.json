@@ -2,11 +2,11 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Classifieds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-12T12:07:16Z"
+        "lastUpdated": "2026-05-13T01:08:03Z"
     },
     "kiosk": [
         {
-            "Title": "Register a Deal",
+            "Title": "Submit a new deal or discount",
             "Summary": "To submit information for a new deal/promo, please contact us to learn more.",
             "Phone": "",
             "Address": "",

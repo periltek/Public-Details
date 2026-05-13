@@ -2,12 +2,12 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-12T12:14:23Z"
+        "lastUpdated": "2026-05-13T01:06:51Z"
     },
     "kiosk": [
         {
             "Title": "Updates Pending",
-            "Summary": "We're still compiling details for the Events registry. To submit information for a new event, please contact us to learn more.",
+            "Summary": "We're still compiling details for our Events registry. To submit information for a new event, please contact us to learn more.",
             "Phone": "",
             "Address": "",
             "Coords": "",
