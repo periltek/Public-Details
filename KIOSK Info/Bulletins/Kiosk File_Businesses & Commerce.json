@@ -2,20 +2,30 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Businesses%20%26%20Commerce.json",
         "fallbackUrl": "",
-        "lastUpdated": "2025-12-09T18:45:05Z"
+        "lastUpdated": "2026-05-13T00:46:54Z"
     },
     "kiosk": [
         {
-            "Title": "Business & Commerce Highlights",
-            "Description": "This area features updates from local buinessess regarding their operations, not including promotions.",
-            "MoreInfo": "Details may include new hours of operation, seasonal updates, and general information. Updates may be submitted directly to us.",
+            "Title": "Gorge Underground: Under New Ownership in 2026",
+            "Summary": "Gorge Underground, one of the region’s most recognizable adventure attractions, has officially changed ownership.",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "www.RedRiverRecreations.com",
             "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "ImageLinks": []
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": [
+                "",
+                "The operation is now led by Chip Hart, a familiar figure in the local tourism scene and the owner of Out the Top Adventures.",
+                "The transition marks a new chapter for the popular underground kayaking and boat‑tour destination. ",
+                "Early indications suggest that current services will continue uninterrupted while Hart evaluates",
+                "Further updates will be shared as new plans or operational changes are announced."
+            ]
         }
     ]
 }
