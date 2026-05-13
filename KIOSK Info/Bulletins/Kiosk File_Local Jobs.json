@@ -2,12 +2,12 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-12T12:18:02Z"
+        "lastUpdated": "2026-05-13T01:12:14Z"
     },
     "kiosk": [
         {
-            "Title": "No Job Listings",
-            "Summary": "To submit information for a new job opening, please contact us to learn more.",
+            "Title": "Are You Hiring?",
+            "Summary": "To submit information for a new opening, please contact us to learn more.",
             "Phone": "",
             "Address": "",
             "Coords": "",

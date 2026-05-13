@@ -2,12 +2,12 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-12T12:13:38Z"
+        "lastUpdated": "2026-05-13T01:16:07Z"
     },
     "kiosk": [
         {
-            "Title": "Submit a Property",
-            "Summary": "To submit information for a listing related to a new property, please contact us to learn more.",
+            "Title": "Have property for rent or sale?",
+            "Summary": "To submit information for a new listing, please contact us to learn more.",
             "Phone": "",
             "Address": "",
             "Coords": "",
