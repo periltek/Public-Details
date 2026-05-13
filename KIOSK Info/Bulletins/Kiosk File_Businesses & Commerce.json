@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Businesses%20%26%20Commerce.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-13T00:46:54Z"
+        "lastUpdated": "2026-05-13T00:48:53Z"
     },
     "kiosk": [
         {
@@ -26,6 +26,22 @@
                 "Early indications suggest that current services will continue uninterrupted while Hart evaluates",
                 "Further updates will be shared as new plans or operational changes are announced."
             ]
+        },
+        {
+            "Title": "Submit an Update",
+            "Summary": "Updates & changes related to business & commerce can be shown here. To submit a new listing, contact us for more information.",
+            "Phone": "",
+            "Address": "",
+            "Coords": "",
+            "Email": "AppSupport@RedRiverRecreations.com",
+            "Website": "",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
         }
     ]
 }
