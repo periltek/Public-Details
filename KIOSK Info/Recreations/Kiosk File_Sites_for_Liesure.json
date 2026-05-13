@@ -2,20 +2,24 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2025-12-13T12:50:44Z"
+        "lastUpdated": "2026-05-13T04:57:36Z"
     },
     "kiosk": [
         {
             "Title": "Updates Coming Soon...",
-            "Description": "",
-            "MoreInfo": "We apologize. We're still pulling together a mountain of resources and information. Every developer knows the deal with data entry ;)",
+            "Summary": "We apologize we haven't made it this far yet. While visitors enjoy climbing mountains, we're busy sifting though some. This section will recieve regular udpates, scheduled to begin soon. Thank you.",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "Ko-Fi.com/TheRedDeveloper",
             "SocialSite": "",
-            "ImageLinks": []
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
         }
     ]
 }
