@@ -2,12 +2,12 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Classifieds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-12T12:03:09Z"
+        "lastUpdated": "2026-05-13T00:52:29Z"
     },
     "kiosk": [
         {
-            "Title": "No Classifieds",
-            "Summary": "There are no classifieds at this time. To submit information for a new listing, contact us to learn more.",
+            "Title": "Have Something to Sell?",
+            "Summary": "To submit information for a new listing, contact us for more details.",
             "Phone": "",
             "Address": "",
             "Coords": "",

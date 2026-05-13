@@ -2,20 +2,31 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2025-12-08T20:10:03Z"
+        "lastUpdated": "2026-05-13T01:05:37Z"
     },
     "kiosk": [
         {
-            "Title": "Test Kiosk Entry",
-            "Description": "Test",
-            "MoreInfo": "Test Kiosk Entry Only. Please dis-regard this test",
+            "Title": "A Legend Reborn",
+            "Summary": "For more than two centuries, whispers of Jonathan Swift’s lost silver have drifted through the hollows of this region.",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "",
             "Website": "",
             "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "ImageLinks": []
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": [
+                "",
+                "Old journals speak of hidden caches, smelted bars, and coins minted deep in the wilderness. Treasures Swift claimed to have buried before vanishing into blindness and legend. ",
+                "Most dismissed the tale as frontier folklore. Others swore the truth was scattered across the land in fragments:",
+                "a symbol carved into a white oak… a rock house hiding a shadowed chamber… a creek where a wounded bear once limped into history.",
+                "Now, for the first time in generations, the legend will stir again. A new, secretive challenge, inspired by Swift’s own cryptic writings is quietly taking shape in the Red...",
+                "Stay tuned..."
+            ]
         }
     ]
 }
