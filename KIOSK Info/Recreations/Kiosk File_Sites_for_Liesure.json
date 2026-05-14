@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-14T03:41:51Z"
+        "lastUpdated": "2026-05-14T03:47:37Z"
     },
     "kiosk": [
         {
@@ -23,7 +23,7 @@
         },
         {
             "Title": "Sky Bridge Area",
-            "Summary": "One of the most iconic natural arches in the RRG, located in the scenic Sky Bridge Recreation Area near the Gladie Visitor Center. The short loop trail leads across the top of the sandstone arch and then beneath it, offering sweeping cliffline views, photogenic rock formations, and an easy, family‑friendly hike that showcases the classic beauty of the Gorge.",
+            "Summary": "One of the most iconic natural arches in the RRG, located in the scenic Sky Bridge Recreation Area near the Gladie Visitor Center. The short loop trail leads across the top of the sandstone arch and then beneath it, offering sweeping cliffline views, photogenic rock formations.",
             "Phone": "",
             "Address": "",
             "Coords": "",
@@ -35,7 +35,10 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Devil's Canyon Overlook - A pull-off with a breath taking view of the cliffs & valley below."
+            ]
         }
     ]
 }
