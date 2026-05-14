@@ -2,17 +2,33 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-13T04:57:36Z"
+        "lastUpdated": "2026-05-14T03:41:51Z"
     },
     "kiosk": [
         {
-            "Title": "Updates Coming Soon...",
+            "Title": "Updates Coming Soon.",
             "Summary": "We apologize we haven't made it this far yet. While visitors enjoy climbing mountains, we're busy sifting though some. This section will recieve regular udpates, scheduled to begin soon. Thank you.",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
             "Website": "Ko-Fi.com/TheRedDeveloper",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
+        {
+            "Title": "Sky Bridge Area",
+            "Summary": "One of the most iconic natural arches in the RRG, located in the scenic Sky Bridge Recreation Area near the Gladie Visitor Center. The short loop trail leads across the top of the sandstone arch and then beneath it, offering sweeping cliffline views, photogenic rock formations, and an easy, family‑friendly hike that showcases the classic beauty of the Gorge.",
+            "Phone": "",
+            "Address": "",
+            "Coords": "",
+            "Email": "",
+            "Website": "https://maps.app.goo.gl/L6MthsTxYVP5DcEy5",
             "SocialSite": "",
             "promoLink": "",
             "docDescription": "",
