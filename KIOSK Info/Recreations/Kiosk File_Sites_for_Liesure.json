@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-14T03:49:53Z"
+        "lastUpdated": "2026-05-15T12:40:58Z"
     },
     "kiosk": [
         {
@@ -12,6 +12,7 @@
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
+            "Region": "",
             "Website": "Ko-Fi.com/TheRedDeveloper",
             "SocialSite": "",
             "promoLink": "",
@@ -28,6 +29,7 @@
             "Address": "",
             "Coords": "",
             "Email": "",
+            "Region": "Pine Ridge",
             "Website": "https://maps.app.goo.gl/L6MthsTxYVP5DcEy5",
             "SocialSite": "",
             "promoLink": "",
