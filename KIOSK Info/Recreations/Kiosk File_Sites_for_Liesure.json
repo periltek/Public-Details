@@ -2,12 +2,12 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-15T12:40:58Z"
+        "lastUpdated": "2026-05-16T02:01:31Z"
     },
     "kiosk": [
         {
             "Title": "Updates Coming Soon.",
-            "Summary": "We apologize we haven't made it this far yet. While visitors enjoy climbing mountains, we're busy sifting though some. This section will recieve regular udpates, scheduled to begin soon. Thank you.",
+            "Summary": "While visitors enjoy climbing mountains, we're busy sifting though some. This section will recieve regular udpates, scheduled to begin soon. Thank you.",
             "Phone": "",
             "Address": "",
             "Coords": "",
@@ -41,6 +41,23 @@
                 "",
                 "Devil's Canyon Overlook - A pull-off with a breath taking view of the cliffs & valley below."
             ]
+        },
+        {
+            "Title": "Natural Bridge Pavilions",
+            "Summary": "",
+            "Phone": "",
+            "Address": "",
+            "Coords": "",
+            "Email": "",
+            "Region": "Slade",
+            "Website": "",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
         }
     ]
 }
