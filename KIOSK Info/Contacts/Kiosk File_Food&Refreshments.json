@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Food%26Refreshments.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-12T01:50:22Z"
+        "lastUpdated": "2026-05-21T03:59:02Z"
     },
     "kiosk": [
         {
@@ -12,6 +12,7 @@
             "Address": "1890 Natural Bridge Rd, Slade, KY 40376",
             "Coords": "",
             "Email": "",
+            "Region": "Slade",
             "Website": "https://www.miguelspizza.com/#67",
             "SocialSite": "",
             "promoLink": "",
@@ -19,7 +20,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "Miguel's Menu",
+                "Located on KY‑11 in the heart of Slade, just minutes from Natural Bridge State Resort Park and the main Red River Gorge entrance. Easily spotted by its bright yellow buildings and the steady crowd of climbers and hikers.",
+                "Large gravel and paved parking areas shared with the campground and climbing shop; can fill up during peak seasons but generally manageable with steady turnover.",
+                "Lively, outdoorsy, and community‑driven—an iconic gathering spot for climbers, hikers, and travelers, with a laid‑back vibe and picnic‑table seating.",
+                "Famous for customizable, build‑your‑own pizzas with fresh ingredients and generous portions.",
+                "The campground behind the restaurant is a long‑time hub for climbers from around the world, adding to the energetic, social atmosphere."
+            ]
         },
         {
             "Title": "Red River Rockhouse",
@@ -28,6 +36,7 @@
             "Address": "4000 KY-11, Campton, KY 41301",
             "Coords": "",
             "Email": "",
+            "Region": "Campton / Northern Gorge Corridor",
             "Website": "http://www.redriverrockhouse.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -35,7 +44,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located along KY‑11 between Slade and Campton, just a few minutes north of the Mountain Parkway. Look for the colorful building tucked into the trees near the junction of KY‑11 and KY‑15.",
+                "Gravel parking lot directly in front of the restaurant; fills up during peak hours but has steady turnover.",
+                "Relaxed, creative, and eco‑friendly with a farm‑to‑table vibe, popular with climbers, hikers, and families looking for fresh, high‑quality food in a laid‑back setting.",
+                "Known for its locally sourced ingredients and standout menu items like burgers, tacos, and vegetarian options.",
+                "The coffee bar and house‑made sauces are favorites among regulars."
+            ]
         },
         {
             "Title": "Hungry Hiker",
@@ -44,6 +60,7 @@
             "Address": "1255 Natural Bridge Rd, Slade, KY 40376",
             "Coords": "",
             "Email": "",
+            "Region": "Slade",
             "Website": "http://hungryhiker.org/",
             "SocialSite": "",
             "promoLink": "",
@@ -51,7 +68,15 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located along KY‑11/Campton Road in central Slade, just minutes from Natural Bridge State Resort Park and the main Red River Gorge entrance. Positioned close to several popular lodging and activity hubs.",
+                "Small on‑site lot with straightforward pull‑in access; typically easy to park except during peak meal hours.",
+                "Casual, friendly, and traveler‑focused—set up for quick, satisfying meals for hikers, campers, and families on the go.",
+                "Offers fast, hearty food options ideal for pre‑ or post‑hike refueling.",
+                "Conveniently located near multiple trailheads, making it a great stop before heading deeper into the Gorge.",
+                "Menu and hours may vary seasonally. Checking ahead during off‑peak months is helpful."
+            ]
         },
         {
             "Title": "Ice Cream Shop",
@@ -60,6 +85,7 @@
             "Address": "1321 Natural Bridge Rd, Slade, KY 40376",
             "Coords": "",
             "Email": "",
+            "Region": "Slade",
             "Website": "https://redrivergorgegeneralstore.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -67,7 +93,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located inside the Red River Gorge General Store on KY‑11/Campton Road in central Slade, just minutes from Natural Bridge State Resort Park and the main Gorge entrance.",
+                "Paved on‑site parking shared with the General Store; typically easy to access with steady turnover.",
+                "Classic, nostalgic ice‑cream‑counter vibe with a friendly, family‑oriented feel—perfect for a cool treat after hiking or exploring.",
+                "Offers hand‑scooped ice cream, shakes, and seasonal flavors popular with both locals and visitors.",
+                "A great stop for cooling off after a long hike or grabbing dessert after dining in Slade."
+            ]
         },
         {
             "Title": "Thatcher Barbecue Company",
@@ -76,6 +109,7 @@
             "Address": "918 Natural Bridge Rd, Slade, KY 40376",
             "Coords": "",
             "Email": "",
+            "Region": "Slade",
             "Website": "http://www.thatbbqco.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -83,7 +117,15 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located along East College Avenue in Stanton, just a short drive from the Mountain Parkway and minutes from the Slade/Red River Gorge corridor.",
+                "On‑site parking lot with easy pull‑in access; typically plenty of space except during peak mealtimes.",
+                "Warm, casual, and Southern‑comfort focused—classic small‑town barbecue vibes with friendly service and hearty plates.",
+                "Known for slow‑smoked meats, generous portions, and traditional sides that hit the spot after a day in the Gorge.",
+                "Daily specials rotate, offering great value and a chance to try different smoked options.",
+                "A popular stop for both locals and travelers, making it a reliable choice for authentic Kentucky barbecue."
+            ]
         },
         {
             "Title": "Sandstone Arches Restaurant ",
@@ -92,6 +134,7 @@
             "Address": "2135 Natural Bridge Rd, Slade, KY 40376",
             "Coords": "",
             "Email": "",
+            "Region": "Natural Bridge State Resort Park / Slade",
             "Website": "",
             "SocialSite": "",
             "promoLink": "",
@@ -99,15 +142,23 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located inside the Hemlock Lodge at Natural Bridge State Resort Park. From KY‑11, turn into the park entrance and follow signs to Hemlock Lodge; the restaurant is on the main level overlooking the forested ridges.",
+                "Large paved parking lot at Hemlock Lodge with easy walk‑in access; additional overflow parking available during peak seasons.",
+                "Relaxed, scenic, and lodge‑style—classic Kentucky park dining with big windows, warm wood interiors, and views of the surrounding cliffs and forest.",
+                "Offers traditional Kentucky comfort dishes, including fried catfish, hot browns, and hearty homestyle meals.",
+                "Breakfast service is especially popular with hikers staying at the lodge or heading out early for the trails."
+            ]
         },
         {
             "Title": "Trail’s End Tavern",
             "Summary": "A cozy lodge‑style bar and grill at Natural Bridge State Resort Park, offering hearty pub fare, cold drinks, and a relaxed atmosphere that gives hikers and travelers a comfortable place to unwind after a day in the Gorge.",
             "Phone": "",
-            "Address": "",
+            "Address": "2135 Natural Bridge Rd, Slade, KY 40376",
             "Coords": "",
             "Email": "",
+            "Region": "Natural Bridge State Resort Park / Slade",
             "Website": "",
             "SocialSite": "",
             "promoLink": "",
@@ -115,15 +166,24 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located inside Natural Bridge State Resort Park near Hemlock Lodge. From KY‑11, turn into the park entrance, follow signs toward the lodge, and the tavern is just a short walk from the main parking area.",
+                "Large paved parking lot at Hemlock Lodge with easy access; overflow parking available during busy evenings and weekends.",
+                "Cozy, lodge‑style bar with a relaxed, wood‑paneled vibe—popular with hikers, campers, and park guests looking to unwind after a day on the trails.",
+                "Offers a full bar with local beers, cocktails, and casual pub‑style food.",
+                "Often quieter than nearby restaurants, making it a great spot to relax away from the crowds.",
+                "A perfect end‑of‑day stop if you’re staying at the lodge or exploring Natural Bridge’s evening activities."
+            ]
         },
         {
-            "Title": "La Cabaña",
-            "Summary": "La Cabaña is a long‑standing Mexican restaurant near the Red River Gorge, offering hearty plates, familiar favorites, and a casual, welcoming atmosphere that makes it a popular stop for families, hikers, and travelers passing through the Slade and Stanton area.",
+            "Title": "La Cabaña Mexican Restaurant",
+            "Summary": "A long‑standing Mexican restaurant near the Red River Gorge, offering hearty plates, familiar favorites, and a casual, welcoming atmosphere that makes it a popular stop for families, hikers, and travelers passing through the Slade and Stanton area.",
             "Phone": "(606)663-0330",
             "Address": "1289 Natural Bridge Rd, Slade, KY 40376",
             "Coords": "",
             "Email": "",
+            "Region": "Slade",
             "Website": "https://www.lacabanaofslade.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -131,7 +191,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located on East College Avenue in Stanton, just a few minutes off the Mountain Parkway. Easy to reach for travelers heading to or from Slade and the Red River Gorge.",
+                "Paved on‑site parking lot with plenty of space and straightforward access to the entrance.",
+                "Casual, colorful, and family‑friendly, classic small‑town Mexican restaurant vibes with quick service and a welcoming feel.",
+                "Known for generous portions, fast service, and a wide selection of familiar Mexican dishes.",
+                "A popular stop for both locals and Gorge visitors looking for a hearty sit‑down meal after a day outdoors."
+            ]
         },
         {
             "Title": "Bruen's Restaurant ",
@@ -140,6 +207,7 @@
             "Address": "8 S Sipple St, Stanton, KY 40380",
             "Coords": "",
             "Email": "",
+            "Region": "Stanton",
             "Website": "https://bruensrestaurant.site/",
             "SocialSite": "",
             "promoLink": "",
@@ -147,7 +215,15 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located on East College Avenue in Stanton, just a few minutes from the Mountain Parkway and an easy stop for travelers heading to or from the Red River Gorge.",
+                "On‑site paved parking with straightforward access; usually plenty of space except during peak breakfast and lunch hours.",
+                "Classic small‑town diner feel, simple, welcoming, and homey, with a focus on familiar comfort food and friendly service.",
+                "A long‑running local favorite known for hearty homestyle meals at affordable prices.",
+                "Breakfast is especially popular, drawing both locals and Gorge visitors looking for a solid start to the day.",
+                "Service is quick and consistent, making it a reliable stop when you want a no‑frills, satisfying meal."
+            ]
         },
         {
             "Title": "China Wok",
@@ -156,6 +232,7 @@
             "Address": "118 W College Ave Ste A, Stanton, KY 40380",
             "Coords": "",
             "Email": "",
+            "Region": "Stanton",
             "Website": "http://newchinawok.restaurant888.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -163,15 +240,24 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located on West College Avenue in Stanton, just a few minutes from the Mountain Parkway exit. Easy to reach for travelers heading toward Slade or returning from the Gorge.",
+                "Small on‑site parking lot directly in front of the restaurant with additional roadside parking available if needed.",
+                "Simple, fast‑casual Chinese takeout spot with quick service and a no‑frills, familiar setup—popular for convenient meals on the go.",
+                "Offers classic American‑Chinese favorites with large portions and reliable consistency.",
+                "Great option for quick takeout when passing through Stanton or heading back from a day in the Gorge.",
+                "Lunch specials provide good value and fast turnaround, especially on weekdays."
+            ]
         },
         {
-            "Title": "Mi Finca ",
+            "Title": "Mi Finca Mexican Restaurant",
             "Summary": "A popular Mexican restaurant in Stanton, offering flavorful plates, friendly service, and a relaxed, family‑style atmosphere that makes it a reliable stop for visitors exploring the Red River Gorge area.",
             "Phone": "(606)612-5101",
             "Address": "86 W College Ave, Stanton, KY 40380",
             "Coords": "",
             "Email": "",
+            "Region": "Stanton",
             "Website": "https://mifincaky.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -179,7 +265,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located on East College Avenue in Stanton, just a few minutes from the Mountain Parkway exit. Easy stop for travelers heading toward Slade or returning from the Red River Gorge.",
+                "Paved on‑site parking lot with plenty of space and convenient walk‑up access to the entrance.",
+                "Colorful, lively, and family‑friendly—classic Mexican restaurant feel with quick service and a welcoming local crowd.",
+                "Known for generous portions, flavorful dishes, and consistently fast service.",
+                "A popular choice for groups and families thanks to its large menu and comfortable seating."
+            ]
         },
         {
             "Title": "Mr. Ed’s Hotdogs",
@@ -188,6 +281,7 @@
             "Address": "209 N Main St, Stanton, KY 40380",
             "Coords": "",
             "Email": "",
+            "Region": "Stanton",
             "Website": "http://mredshotdogs.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -195,7 +289,40 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located on West College Avenue in Stanton, just a few minutes from the Mountain Parkway exit. Easy stop for travelers heading toward Slade or returning from the Red River Gorge.",
+                "Small on‑site parking area with quick walk‑up access; usually easy to get in and out unless it’s a busy lunch rush.",
+                "Classic small‑town hotdog stand vibe—simple, friendly, fast, and nostalgic, with a focus on quick comfort food.",
+                "Known for grilled hotdogs with a variety of toppings, plus burgers, fries, and other quick‑serve favorites.",
+                "A popular grab‑and‑go option for hikers and families looking for something fast before heading into the Gorge.",
+                "A reliable stop when you want something satisfying without a long wait."
+            ]
+        },
+        {
+            "Title": "Sue’s Hotdogs",
+            "Summary": "A beloved Stanton staple offering classic grilled hotdogs, burgers, and quick comfort food perfect for travelers and locals alike. Its fast service and nostalgic roadside charm make it a convenient stop before or after exploring the Red River Gorge.",
+            "Phone": "(606)612-5004",
+            "Address": "70 N Main St, Stanton, KY 40380",
+            "Coords": "",
+            "Email": "",
+            "Region": "Stanton",
+            "Website": "",
+            "SocialSite": "https://www.facebook.com/p/Sues-Hotdogs-100032894331566/",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": [
+                "",
+                "Located on West College Avenue in Stanton, just a few minutes from the Mountain Parkway exit. A convenient roadside stop for anyone traveling to or from Slade and the Red River Gorge.",
+                "Small on‑site parking area with quick walk‑up access; typically easy to get in and out unless it’s a busy lunch period.",
+                "Classic small‑town hotdog stand—simple, friendly, nostalgic, and focused on fast, satisfying comfort food.",
+                "Offers grilled hotdogs with a variety of toppings, plus burgers, fries, and other quick‑serve favorites.",
+                "A popular grab‑and‑go option for hikers and families looking for something fast before heading into the Gorge.",
+                "Affordable prices and speedy service make it a reliable stop when you want something quick and tasty."
+            ]
         },
         {
             "Title": "The Drive In Diner",
@@ -204,6 +331,7 @@
             "Address": "1327 E College Ave, Stanton, KY 40380",
             "Coords": "",
             "Email": "",
+            "Region": "Stanton",
             "Website": "https://hometownroots.my.canva.site/thedriveindiner",
             "SocialSite": "",
             "promoLink": "",
@@ -211,7 +339,15 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located on West College Avenue in Stanton, just a couple minutes from the Mountain Parkway exit. Easy to spot with its classic drive‑in look and retro roadside charm.",
+                "On‑site parking directly in front of the diner with simple pull‑in access; usually plenty of space except during peak lunch and dinner hours.",
+                "Nostalgic, friendly, and laid‑back, classic small‑town American diner energy with comfort‑food favorites and a welcoming local crowd.",
+                "Known for burgers, shakes, hotdogs, and classic diner plates served fast and fresh.",
+                "A popular stop for families and travelers heading to or from the Red River Gorge.",
+                "Great option when you want a relaxed, no‑rush sit‑down meal with that old‑school diner feel."
+            ]
         },
         {
             "Title": "Knox Family Pizza",
@@ -220,6 +356,7 @@
             "Address": "5110 Main St, Clay City, KY 40312",
             "Coords": "",
             "Email": "",
+            "Region": "Clay City",
             "Website": "",
             "SocialSite": "http://www.facebook.com/knoxfamilypizzaplace",
             "promoLink": "",
@@ -227,7 +364,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located on East College Avenue in Stanton, just a short drive from the Mountain Parkway and an easy stop for anyone traveling to or from the Red River Gorge.",
+                "On‑site paved parking with simple pull‑in access; typically plenty of space for dine‑in or carry‑out.",
+                "Family‑friendly, casual, and welcoming—classic small‑town pizza‑parlor feel with a loyal local crowd.",
+                "Known for hearty pizzas, subs, and comfort‑food favorites made fresh to order.",
+                "A reliable option for families and groups looking for an easy, satisfying meal."
+            ]
         },
         {
             "Title": "Mi Hacienda Mexican Grill",
@@ -236,6 +380,7 @@
             "Address": "5860 Main St, Clay City, KY 40312",
             "Coords": "",
             "Email": "",
+            "Region": "",
             "Website": "https://mihaciendagrillclaycity.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -243,15 +388,23 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located on East College Avenue in Stanton, just a couple minutes from the Mountain Parkway exit. A convenient stop for anyone traveling to or from Slade and the Red River Gorge.",
+                "Paved on‑site parking with easy access; typically plenty of space except during peak dinner hours.",
+                "Bright, friendly, and family‑oriented—classic Mexican restaurant feel with colorful décor, quick service, and a relaxed local crowd.",
+                "Known for hearty portions, flavorful entrées, and consistently fast service.",
+                "A reliable choice for groups thanks to its large menu and comfortable seating."
+            ]
         },
         {
             "Title": "My Little Finca",
-            "Summary": "",
+            "Summary": "Updates Pending",
             "Phone": "(606)612-5002",
             "Address": "20 Black Creek Rd, Clay City, KY 40312",
             "Coords": "",
             "Email": "",
+            "Region": "Stanton",
             "Website": "",
             "SocialSite": "https://m.facebook.com/people/My-Little-Finca-Clay-City/100090182403855/",
             "promoLink": "",
@@ -268,6 +421,7 @@
             "Address": "10579 Campton Rd, Stanton, KY 40380",
             "Coords": "",
             "Email": "",
+            "Region": "Nada",
             "Website": "",
             "SocialSite": "https://www.facebook.com/share/17Xpt9vE8B/",
             "promoLink": "",
@@ -275,7 +429,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Situated along the Nada area corridor leading toward the Red River Gorge, making it an easy morning stop before entering the Gorge through the historic Nada Tunnel.",
+                "Small on‑site parking area with quick walk‑up access; typically easy to park except during the early‑morning rush.",
+                "Bright, friendly, and cozy—classic small‑town donut‑shop charm with fresh pastries and a welcoming local crowd.",
+                "Known for soft, fresh donuts made daily with rotating specialty flavors.",
+                "A popular early‑morning stop for hikers heading into the Gorge via Nada Tunnel."
+            ]
         },
         {
             "Title": "Toad's BARn and Grill ",
@@ -284,6 +445,7 @@
             "Address": "9943 Campton Rd, Stanton, KY 40380",
             "Coords": "",
             "Email": "",
+            "Region": "Nada",
             "Website": "https://toadsbarnandgrill.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -291,7 +453,15 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located inside 4 Guys RV Park at the Gorge in Stanton, KY, just off Campton Road (KY‑11/15). From the Mountain Parkway, take the Stanton/Campton exit, follow KY‑11/15 toward the Gorge, then turn into 4 Guys RV Park and follow the signs back to Toad’s BARn and Grill. ",
+                "Parking is available within 4 Guys RV Park, with guest parking areas near the barn‑style restaurant; it’s set back from the road and not easily visible from the highway, so watch for the RV park entrance and internal signage. ",
+                "Rustic, open‑sided barn‑style bar and grill with lots of outdoor seating, live‑music stage, and a relaxed, family‑friendly vibe—patriotic décor, casual service, and a “hidden spot” feel inside the campground. ",
+                "Menu highlights include smash burgers, Philly cheesesteaks, pizzas (including cauliflower‑crust options), and popular bar snacks like pickle fries. ",
+                "Known for its casual bar drinks, cocktails, and wine slushies, plus frequent live music and open‑air seating that make it a laid‑back place to unwind after a day in the Gorge. ",
+                "Because it’s tucked in the back of 4 Guys RV Park, it can be a little tricky to find. Follow the RV park and Toad’s signs rather than relying solely on generic GPS directions. "
+            ]
         },
         {
             "Title": "RedPoint Barbeque ",
@@ -300,6 +470,7 @@
             "Address": "356 Jim Smith Road, Campton, KY 41301",
             "Coords": "",
             "Email": "",
+            "Region": "",
             "Website": "https://www.redpointbbq.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -307,7 +478,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located directly in Slade near the junction of KY‑11 and KY‑15, just minutes from the Mountain Parkway and right in the heart of the Red River Gorge tourism corridor. Easy to reach from Natural Bridge State Resort Park, Muir Valley, and the main Slade campground areas.",
+                "On‑site gravel and paved parking with straightforward access; can fill up during peak climbing and hiking weekends, but turnover is usually quick.",
+                "Casual, friendly, and very “Gorge‑local”—a laid‑back barbecue spot with a welcoming vibe, popular with climbers, hikers, and families looking for a hearty meal after a day outdoors.",
+                "Known for smoked meats, sandwiches, and hearty sides with a local, homemade feel.",
+                "Conveniently located near several trailheads and lodging areas, making it an easy mid‑day or end‑of‑day food stop."
+            ]
         },
         {
             "Title": "Hop's",
@@ -316,6 +494,7 @@
             "Address": "2613 KY-11, Campton, KY 41301 ",
             "Coords": "",
             "Email": "",
+            "Region": "Rogers",
             "Website": "https://www.hopsfarmtotable.com/#/",
             "SocialSite": "",
             "promoLink": "",
@@ -332,6 +511,7 @@
             "Address": "9901 Campton Rd, Stanton, KY 40380",
             "Coords": "",
             "Email": "",
+            "Region": "",
             "Website": "https://gypsygrind.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -348,6 +528,7 @@
             "Address": "75 E Main St, Beattyville, KY 41311",
             "Coords": "",
             "Email": "",
+            "Region": "",
             "Website": "",
             "SocialSite": "https://www.facebook.com/BrendasSmokeShack",
             "promoLink": "",
@@ -364,6 +545,7 @@
             "Address": "146 Main St, Beattyville, KY 41311",
             "Coords": "",
             "Email": "",
+            "Region": "",
             "Website": "https://www.lostwobrothers.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -380,6 +562,7 @@
             "Address": "2034 KY-11, Beattyville, KY 41311",
             "Coords": "",
             "Email": "",
+            "Region": "",
             "Website": "",
             "SocialSite": "",
             "promoLink": "",
@@ -396,6 +579,7 @@
             "Address": "2700 KY-11, Beattyville, KY 41311",
             "Coords": "",
             "Email": "",
+            "Region": "",
             "Website": "",
             "SocialSite": "https://www.facebook.com/profile.php?id=100083871864878",
             "promoLink": "",
@@ -412,6 +596,7 @@
             "Address": "133 KY-15, Campton, KY 41301",
             "Coords": "",
             "Email": "",
+            "Region": "",
             "Website": "http://kelspatriotpizza.com",
             "SocialSite": "",
             "promoLink": "",

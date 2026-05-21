@@ -2,16 +2,17 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_LocalServices.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-12T02:08:58Z"
+        "lastUpdated": "2026-05-21T02:40:49Z"
     },
     "kiosk": [
         {
             "Title": "Stanton Airport",
-            "Summary": "A small, community‑focused airfield serving Powell County and the RRG region, providing general aviation access & pilot services.",
+            "Summary": "Stanton Airport is a small, community‑oriented general aviation airfield serving Powell County and the Red River Gorge region. With easy parking, a simple layout, and quick access to Stanton, Slade, and Natural Bridge, it offers a convenient landing point for private pilots and visitors. Its quiet atmosphere and straightforward facilities make it a smooth, low‑stress gateway into the Gorge.",
             "Phone": "(606)569-9011",
             "Address": "102 Plum St, Stanton, KY 40380",
             "Coords": "37.848731689661314, -83.8464151320727",
             "Email": "",
+            "Region": "Stanton",
             "Website": "",
             "SocialSite": "",
             "promoLink": "",
@@ -19,7 +20,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located north of Stanton near Boone Creek Road, the airport sits just a short drive from KY‑213 and the Mountain Parkway, making it the primary general‑aviation access point for the Red River Gorge region.",
+                "Parking is available in the main lot beside the terminal and hangar area, with easy walk‑up access for visitors, pilots, and those meeting incoming flights.  ",
+                "General aviation–focused facility offering a single runway, hangars, tie‑downs, and basic pilot services; commonly used by private pilots, aerial survey crews, and emergency operations.  ",
+                "Quiet, low‑traffic airfield that provides a convenient landing option for those flying into the Gorge area without the congestion of larger regional airports.  ",
+                "Close proximity to Slade and Natural Bridge, typically a 10–15 minute drive, making it a practical arrival point for outdoor recreation, tourism, and local events."
+            ]
         },
         {
             "Title": "Gorge Shuttle",
@@ -28,6 +36,7 @@
             "Address": "",
             "Coords": "",
             "Email": "",
+            "Region": "",
             "Website": "",
             "SocialSite": "https://www.facebook.com/groups/3004366322914459",
             "promoLink": "",
@@ -44,6 +53,7 @@
             "Address": "24 L&E Railroad Pl, Slade, KY 40376",
             "Coords": "",
             "Email": "",
+            "Region": "Slade",
             "Website": "https://transportation.ky.gov/",
             "SocialSite": "",
             "promoLink": "",
@@ -51,15 +61,23 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Positioned directly along the Mountain Parkway near Exit 33, this rest area is one of the primary stopping points for travelers heading toward Slade, Natural Bridge, and the Red River Gorge region.  ",
+                "Parking is plentiful and easy to access, with clearly marked spaces for cars, RVs, and larger vehicles, making it a convenient pull‑off for short breaks.  ",
+                "Clean, well‑maintained facilities, including restrooms, picnic areas, and shaded spots for stretching or relaxing during longer drives.  ",
+                "A reliable midpoint stop for visitors coming from Lexington, Winchester, or Stanton before entering the more rural sections of the Parkway.  ",
+                "Quiet, scenic surroundings offer a calm break from the road, with open green areas typical of Kentucky’s parkway rest stops."
+            ]
         },
         {
             "Title": "Red River Graphix",
-            "Summary": "",
+            "Summary": "A local print and design shop offering custom apparel, decals, signs, banners, and branding services for individuals, businesses, and community groups. Known for quick turnaround and personalized service, they handle everything from small one‑off orders to larger promotional projects. ",
             "Phone": "(606)668-3075",
             "Address": "317 Main St, Campton, KY 41301",
             "Coords": "",
             "Email": "",
+            "Region": "",
             "Website": "",
             "SocialSite": "https://www.facebook.com/redrivergraphix",
             "promoLink": "",

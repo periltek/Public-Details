@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Retail%26Souvenirs.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-12T01:51:28Z"
+        "lastUpdated": "2026-05-21T03:09:49Z"
     },
     "kiosk": [
         {
@@ -12,6 +12,7 @@
             "Address": "9901 Campton Rd, Stanton, KY 40380",
             "Coords": "",
             "Email": "",
+            "Region": "Slade",
             "Website": "http://www.mushroomgroveshoppingvillage.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -19,7 +20,15 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located along Natural Bridge Road (KY‑11) in the heart of Slade, just minutes from Natural Bridge State Resort Park and the main Red River Gorge entrance.",
+                "On‑site gravel parking lot with easy walk‑up access to the vendor huts and pathways.",
+                "Whimsical, artsy, and family‑friendly, with a playful “fantasy village” feel and small artisan booths clustered together.",
+                "Features handmade crafts, décor, gifts, and locally inspired merchandise from rotating small vendors.",
+                "A great stop for unique souvenirs that differ from typical gas‑station or park‑store offerings.",
+                "Its central Slade location makes it an easy add‑on when visiting nearby restaurants, attractions, or trailheads."
+            ]
         },
         {
             "Title": "Red River Gorge Earth Shop",
@@ -28,6 +37,7 @@
             "Address": "888 Natural Bridge Rd, Slade, KY 40376",
             "Coords": "",
             "Email": "",
+            "Region": "Slade",
             "Website": "http://earthshopatredrivergorge.com/?utm_source=GMBlisting&utm_medium=organic&utm_content=listing",
             "SocialSite": "",
             "promoLink": "",
@@ -35,7 +45,15 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located along KY‑11/Campton Road in central Slade, just minutes from Natural Bridge State Resort Park and the main Red River Gorge entrance corridor.",
+                "Small on‑site lot with easy pull‑in access; additional roadside parking available during busy hours.",
+                "Nature‑inspired, cozy, and welcoming, with a focus on crystals, minerals, handcrafted goods, and earthy décor.",
+                "Carries a wide selection of crystals, gemstones, and metaphysical items popular with collectors and casual shoppers alike.",
+                "Offers locally crafted goods and Gorge‑themed souvenirs that make for meaningful keepsakes.",
+                "A great stop for unique gifts or a calming browse before or after exploring nearby trails and attractions."
+            ]
         },
         {
             "Title": "Red River Gorge General Store",
@@ -44,6 +62,7 @@
             "Address": "1321 Natural Bridge Rd, Slade, KY 40376",
             "Coords": "",
             "Email": "",
+            "Region": "Slade",
             "Website": "https://redrivergorgegeneralstore.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -51,15 +70,24 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located along KY‑11/Campton Road in the center of Slade, just minutes from Natural Bridge State Resort Park and the main Red River Gorge entrance.",
+                "Paved on‑site parking with easy pull‑in access; typically plenty of space for quick stops.",
+                "Classic roadside general‑store vibe with a friendly, laid‑back feel and a mix of snacks, drinks, souvenirs, and trail‑friendly essentials.",
+                "Carries convenient grab‑and‑go items like snacks, cold drinks, ice, and basic camping supplies.",
+                "Offers a variety of Gorge‑themed souvenirs, shirts, and small gifts for visitors.",
+                "A reliable stop for last‑minute essentials before heading into Natural Bridge or deeper into the Gorge."
+            ]
         },
         {
             "Title": "Miguel's Rock Climbing Shop",
-            "Summary": "",
+            "Summary": "The go‑to gear hub for climbers visiting the Red River Gorge, offering shoes, ropes, hardware, guidebooks, and essentials right beside the iconic Miguel’s Pizza. With knowledgeable staff and a lively climber atmosphere, it’s the perfect place to gear up, get advice, or replace equipment before hitting the crags. ",
             "Phone": "(606)6633650",
             "Address": "1960 Natural Bridge Rd, Slade, KY 40376",
             "Coords": "",
             "Email": "",
+            "Region": "Slade",
             "Website": "http://www.miguelsrockclimbingshop.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -67,7 +95,15 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located beside Miguel’s Pizza on KY‑11 in Slade, just minutes from Natural Bridge State Resort Park and the main Red River Gorge entrance. Look for the iconic yellow buildings and the busy climber hangout.",
+                "Shared gravel and paved parking around Miguel’s Pizza and the shop; can be busy during peak climbing seasons but generally easy to navigate.",
+                "Energetic, outdoorsy, and community‑driven atmosphere, packed with climbers, gear talk, and the laid‑back vibe Miguel’s is known for.",
+                "Carries climbing shoes, ropes, hardware, guidebooks, chalk, and essential gear specifically tailored to Red River Gorge climbing.",
+                "Staff are experienced climbers who can help with gear recommendations, local beta, and route suggestions.",
+                "A great stop for last‑minute gear needs or upgrades before heading to world‑class crags just minutes away."
+            ]
         },
         {
             "Title": "Rick's Music & Electronic Shop",
@@ -76,6 +112,7 @@
             "Address": "2833 Main St #8988, Clay City, KY 40312",
             "Coords": "",
             "Email": "",
+            "Region": "",
             "Website": "",
             "SocialSite": "https://www.facebook.com/profile.php?id=100057176181480",
             "promoLink": "",
@@ -83,7 +120,15 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located in downtown Stanton along Main Street, just a short drive from the Mountain Parkway and minutes from the Slade/Red River Gorge corridor.",
+                "Small on‑site parking area with additional street parking available nearby; easy walk‑up access to the storefront.",
+                "Classic small‑town music‑and‑electronics shop with a nostalgic, welcoming vibe—part gear stop, part local hangout for musicians and hobbyists.",
+                "Carries guitars, amps, keyboards, cables, accessories, and a rotating selection of used gear for budget‑friendly finds.",
+                "Offers basic electronic items and repairs, making it a handy stop for quick fixes or replacement parts.",
+                "A great local resource for musicians visiting or living near the Gorge who need strings, cables, or last‑minute gear before a show or jam session."
+            ]
         }
     ]
 }

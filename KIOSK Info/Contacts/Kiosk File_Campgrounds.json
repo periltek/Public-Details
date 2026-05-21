@@ -2,7 +2,7 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Campgrounds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-12T01:48:19Z"
+        "lastUpdated": "2026-05-21T00:38:35Z"
     },
     "kiosk": [
         {
@@ -12,6 +12,7 @@
             "Address": "90 L and E Railroad Pl, Slade, KY 40376",
             "Coords": "",
             "Email": "",
+            "Region": "Natural Bridge/Slade",
             "Website": "https://naturalbridge.camp/",
             "SocialSite": "",
             "promoLink": "",
@@ -19,7 +20,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Parking: Campsites include adjacent parking; overflow is limited, so arriving early during peak season helps.",
+                "Layout: A compact, loop‑style campground with short walking distances to restrooms and trail access points.",
+                "Atmosphere: Generally calm and family‑friendly, ideal for hikers and guests wanting proximity to the lodge and the bridge.  ",
+                "Amenities: Basic facilities such as restrooms, picnic tables, fire rings, and shaded sites; no major entertainment features.",
+                "Access: Located inside the state park, making it one of the most convenient places to stay for early‑morning hikes or Skylift visits."
+            ]
         },
         {
             "Title": "Whittleton Campground",
@@ -28,6 +36,7 @@
             "Address": "Q8JG+2F, 2135 Natural Bridge Rd, Slade, KY 40376",
             "Coords": "37.78030264732745, -83.67371520816431",
             "Email": "tim.hibbard@ky.gov",
+            "Region": "Natural Bridge/Slade",
             "Website": "https://parks.ky.gov/parks/find-a-park/natural-bridge-state-resort-park-7796",
             "SocialSite": "",
             "promoLink": "",
@@ -35,7 +44,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Parking: Campsites include adjacent parking; space is limited, so larger vehicles should plan ahead.",
+                "Layout: A linear, creek‑side campground running along Whittleton Branch, with sites arranged in a narrow valley.",
+                "Trail Access: The Whittleton Branch Trail begins directly inside the campground and connects to Natural Bridge’s larger trail network.",
+                "Atmosphere: Shaded, quiet, and forested—ideal for hikers and families seeking a calmer alternative to busier campgrounds.",
+                "Amenities: Restrooms, showers, picnic tables, fire rings, and a natural stream environment; no lake or entertainment features."
+            ]
         },
         {
             "Title": "4 Guys RV Park",
@@ -44,6 +60,7 @@
             "Address": "10137 Campton Rd, Stanton, KY 40380",
             "Coords": "",
             "Email": "",
+            "Region": "Slade/Bowen",
             "Website": "www.4guysrvpark.com",
             "SocialSite": "",
             "promoLink": "",
@@ -51,7 +68,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Parking: Each RV site includes its own parking space; overflow is limited but typically manageable.",
+                "Layout: A straightforward, open‑layout RV park with full‑hookup sites arranged in neat rows for easy pull‑in and pull‑out access.",
+                "Atmosphere: Quiet, tidy, and traveler‑friendly—ideal for RVers wanting a reliable base close to Slade’s restaurants and trailheads.",
+                "Amenities: Full hookups, Wi‑Fi, clean bathhouses, a small fishing pond, and a peaceful riverside setting.",
+                "Access: Located along KY‑11, making it one of the most convenient RV parks for quick entry into the Gorge and Natural Bridge State Resort Park."
+            ]
         },
         {
             "Title": "John Swift's Lost Silver Mine Campground",
@@ -60,6 +84,7 @@
             "Address": "45 KY-715, Frenchburg, KY 40322",
             "Coords": "",
             "Email": "",
+            "Region": "Gladie",
             "Website": "http://www.redriveradventure.net",
             "SocialSite": "",
             "promoLink": "",
@@ -76,6 +101,7 @@
             "Address": "Koomer Ridge Campground, Koomer Ridge Picnic Area Rd, Pine Ridge, KY 41360",
             "Coords": "37.784076543773764, -83.63256701431729",
             "Email": "",
+            "Region": "Pine Ridge",
             "Website": "http://www.fs.usda.gov/recarea/dbnf/recreation/camping-cabins/recarea/?recid=39462&actid=29",
             "SocialSite": "",
             "promoLink": "",
@@ -83,7 +109,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Parking: Each site includes its own parking space; overflow is limited, so early arrival is helpful on busy weekends.",
+                "Layout: A loop‑based, wooded campground with tent and small‑RV sites spread among mature trees; no hookups are available.",
+                "Trail Access: Direct access to Koomer Ridge Trail, Hidden Arch, Silvermine Arch, and connections deeper into the Gorge.",
+                "Atmosphere: Quiet, shaded, and forest‑immersed—ideal for hikers and visitors wanting a more traditional, natural setting.",
+                "Amenities: Seasonal restrooms and showers, picnic tables, fire rings, and an amphitheater used for occasional ranger programs."
+            ]
         },
         {
             "Title": "Land of the Arches Campground ",
@@ -92,6 +125,7 @@
             "Address": "5150 KY-715, Campton, KY 41301",
             "Coords": "",
             "Email": "",
+            "Region": "Pine Ridge",
             "Website": "https://landofarches.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -99,7 +133,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Parking: Large gravel parking areas with plenty of room for vans, cars, and group vehicles; overflow is typically available during busy climbing weekends.",
+                "Layout: A wide‑open, field‑style campground with scattered trees, communal spaces, and easy access to facilities.",
+                "Atmosphere: Very climber‑centric, social, and laid‑back—popular with long‑term visitors and groups.",
+                "Amenities: Hot showers, restrooms, pavilion, Wi‑Fi near the office, and large open fields suitable for tents, vans, and small RVs.",
+                "Access: Minutes from major climbing areas like Muir Valley, PMRP, and Miller Fork."
+            ]
         },
         {
             "Title": "Middle Fork Campground ",
@@ -108,6 +149,7 @@
             "Address": "2135 Natural Bridge Rd, Slade, KY 40376",
             "Coords": "",
             "Email": "",
+            "Region": "Slade",
             "Website": "http://parks.ky.gov/parks/resortparks/natural-bridge/",
             "SocialSite": "",
             "promoLink": "",
@@ -115,7 +157,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Directly on KY‑11/Natural Bridge Road, just east of the Natural Bridge State Resort Park entrance, making it one of the closest public campgrounds to the park’s trail system.",
+                "Parking is available on‑site with clearly marked pull‑in areas near the main campground loop",
+                "Shaded, wooded layout with a quieter atmosphere than the busier Slade corridor; ideal for tent campers and small setups looking for a more traditional forest‑camp experience.",
+                "Basic amenities typically include picnic areas, fire rings, and simple facilities; parking is straightforward with pull‑in spots near campsites (amenities may vary seasonally).",
+                "Easy access to trails and backroads leading toward Middle Fork, Pine Ridge, and the Natural Bridge trail network; a convenient base for exploring both the park and the eastern side of the Gorge."
+            ]
         },
         {
             "Title": "South Fork Red River Campground",
@@ -124,6 +173,7 @@
             "Address": "",
             "Coords": "37.825386, -83.755651",
             "Email": "",
+            "Region": "Slade/Pine Ridge",
             "Website": "",
             "SocialSite": "",
             "promoLink": "",
@@ -131,15 +181,23 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located along KY‑715 near the South Fork corridor, offering quick access to the quieter southeastern side of the Gorge and the backroads leading toward Pine Ridge, Tarr Ridge, and the Natural Bridge area.",
+                "Parking is available on‑site, typically as simple pull‑in gravel or grass pads adjacent to campsites, with enough room for small vehicles and tent‑camp setups.",
+                "Riverside, wooded atmosphere with shaded sites and a peaceful, low‑traffic environment ideal for anglers, paddlers, and campers wanting a quieter alternative to the main Slade corridor.",
+                "Easy water access to the South Fork of the Red River for wading, fishing, or launching small craft; the campground sits directly beside the riverbank.",
+                "Basic amenities vary but generally include fire rings, picnic areas, and simple facilities; the layout is straightforward and easy to navigate."
+            ]
         },
         {
-            "Title": "Callies Lake And Campground",
+            "Title": "Callie’s Lake & Campground",
             "Summary": "A spacious, family‑friendly retreat in Red River Gorge, featuring a large spring‑fed lake for swimming, roomy campsites, and a relaxed festival‑style atmosphere that makes it a popular base for groups, events, and weekend getaways.",
             "Phone": "(859)551-0376",
             "Address": "5515 Campton Rd, Stanton, KY 40380",
             "Coords": "37.835354, -83.781209",
             "Email": "",
+            "Region": "Bowen",
             "Website": "https://www.callieslakeandcampground.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -147,7 +205,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located directly on KY‑11/Campton Road in Bowen, making it one of the easiest campgrounds to reach when entering the Gorge from the Mountain Parkway and placing it close to Slade, Natural Bridge, and Campton.",
+                "Parking is abundant and straightforward, with large gravel lots near the lake, campsites, and event areas; overflow parking is typically opened during concerts and busy weekends.",
+                "Open, festival‑style layout centered around a large spring‑fed swimming lake, with campsites arranged in wide, grassy fields rather than wooded loops.",
+                "Lively, social atmosphere, especially during events, concerts, and holiday weekends—well‑suited for groups, gatherings, and visitors who enjoy a more energetic campground environment.",
+                "Amenities include a swimming lake, general store, food options, restrooms, showers, and a stage/event area, making it one of the most activity‑rich campgrounds in the region."
+            ]
         },
         {
             "Title": "Red River Paylake & Campground",
@@ -156,6 +221,7 @@
             "Address": "847 Breckenridge St, Stanton, KY 40380",
             "Coords": "",
             "Email": "",
+            "Region": "Stanton",
             "Website": "",
             "SocialSite": "",
             "promoLink": "",
@@ -163,15 +229,23 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located just off Breckenridge Street in Stanton, only a few minutes from downtown and about 10–12 minutes from the Slade entrance to the Gorge, making it a convenient, low‑traffic base for anglers and travelers.",
+                "Parking is simple and close to the action, with gravel pull‑in spots surrounding the paylake and additional space near the campground area for tents and small campers.",
+                "Relaxed, fisherman‑friendly atmosphere, centered around a stocked paylake that draws regulars and visitors looking for an easygoing place to fish without the bustle of the main Gorge corridor.",
+                "Compact, easy‑to‑navigate layout, with campsites positioned near the lake and open grassy areas; ideal for those who prefer straightforward, no‑frills camping.",
+                "Quick access to local amenities, including Stanton’s grocery stores, restaurants, and gas stations, while still being close enough to the Gorge for day trips."
+            ]
         },
         {
             "Title": "Woodstock Campground",
-            "Summary": "",
+            "Summary": "A relaxed, community‑oriented layout and simple amenities make it a comfortable base for climbers, groups, and travelers who prefer a laid‑back, social atmosphere. It’s convenient, easy to navigate, and close to nearby food, gas, and gear stops.",
             "Phone": "(606)362-5895",
             "Address": "KY-715, Pine Ridge, KY 41360",
             "Coords": "",
             "Email": "",
+            "Region": "Slade/Pine Ridge",
             "Website": "https://www.kentuckyhiker.com/woodstock",
             "SocialSite": "",
             "promoLink": "",
@@ -179,7 +253,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located along KY‑15 near the Slade/Pine Ridge corridor, giving visitors quick access to the Red River Gorge, Natural Bridge State Resort Park, and the KY‑715 loop while remaining slightly removed from the busiest traffic areas.",
+                "Parking is easy and close to campsites, with gravel pull‑in spaces and open areas that accommodate tents, small campers, and vehicles without tight maneuvering.",
+                "Open, community‑oriented layout with grassy fields, scattered trees, and a relaxed atmosphere—popular with groups, climbers, and visitors looking for a social but not overcrowded campground.",
+                "Convenient access to nearby amenities, including gas, food, and gear shops in Slade and Pine Ridge, while still offering a quieter overnight environment.",
+                "Simple, practical amenities such as fire rings, picnic areas, and basic facilities, making it a straightforward and budget‑friendly base camp for Gorge exploration."
+            ]
         }
     ]
 }

@@ -2,9 +2,26 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Fuel%26Supplies.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-12T03:17:23Z"
+        "lastUpdated": "2026-05-21T02:30:41Z"
     },
     "kiosk": [
+        {
+            "Title": "Updates Pending",
+            "Summary": "Various locations may still be missing from this category. To ensure a listing is included or to notify us of a change needed to an existing one, contact us through email",
+            "Phone": "",
+            "Address": "",
+            "Coords": "",
+            "Email": "",
+            "Region": "",
+            "Website": "",
+            "SocialSite": "",
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
+        },
         {
             "Title": "Go Time (Slade)",
             "Summary": "A local convenience stop in the Slade and Natural Bridge area, offering fuel, grab‑and‑go food, drinks, and essential supplies for visitors exploring the RRG.",
@@ -12,6 +29,7 @@
             "Address": "12056 Campton Rd, Stanton, KY 40380",
             "Coords": "",
             "Email": "",
+            "Region": "Slade",
             "Website": "http://www.gotimecstore.com/",
             "SocialSite": "",
             "promoLink": "",
@@ -19,15 +37,22 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located directly on KY‑11/Campton Road at the entrance to Slade, making it one of the most convenient fuel and supply stops for visitors heading into Natural Bridge State Resort Park or the Red River Gorge.",
+                "grab‑and‑go food, drinks, snacks, and basic travel necessities. ideal for topping off before entering the Gorge.",
+                "Reliable fuel stop in an area where stations are limited, especially for travelers coming off the Mountain Parkway and heading toward KY‑11 or KY‑15.",
+                "Central location places it minutes from trailheads, campgrounds, and popular attractions, making it a frequent first or last stop for Gorge visitors."
+            ]
         },
         {
-            "Title": "Shell (Slade)",
-            "Summary": "",
+            "Title": "Park & Save",
+            "Summary": "A convenient fuel and supply stop in the heart of Slade, offering quick access to gas, snacks, drinks, ice, and basic travel essentials. It’s a reliable spot for topping off before heading into the Red River Gorge or Natural Bridge area. With a simple layout and easy parking, it’s built for fast, hassle‑free stops.",
             "Phone": "(606)663-4100",
             "Address": "12187 Campton Rd, Stanton, KY 40380",
             "Coords": "",
             "Email": "",
+            "Region": "",
             "Website": "",
             "SocialSite": "",
             "promoLink": "",
@@ -35,15 +60,23 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located on KY‑11 directly across from Go Time, making it one of the two primary fuel and convenience stops at the entrance to Slade and the Natural Bridge/Red River Gorge corridor.",
+                "Parking is straightforward, with a paved lot offering easy pull‑in access for cars, small trailers, and quick fuel‑up stops.  ",
+                "Convenience store essentials including drinks, snacks, ice, basic groceries, and travel necessities—useful for topping off supplies before heading deeper into the Gorge.  ",
+                "Reliable fuel option in an area with limited gas stations, especially for visitors coming off the Mountain Parkway and continuing toward KY‑15 or KY‑715.  ",
+                "Quick access to nearby attractions, placing it minutes from Natural Bridge State Resort Park, popular trailheads, and the Slade food/gear cluster."
+            ]
         },
         {
             "Title": "Marathon (715 Rogers)",
-            "Summary": "",
+            "Summary": "Marathon in Rogers is a dependable fuel and convenience stop along the KY‑715 loop, offering gas, snacks, drinks, and travel essentials in one of the quieter stretches of the Gorge. Its easy parking and low‑traffic setting make it a smooth, stress‑free place to refuel before exploring climbing areas, backroads, or the eastern side of the Gorge. It’s a practical, reliable stop for anyone traveling the 715 corridor.",
             "Phone": "",
             "Address": "276 Johnson Ln, Campton, KY 41301",
             "Coords": "",
             "Email": "",
+            "Region": "",
             "Website": "",
             "SocialSite": "",
             "promoLink": "",
@@ -51,15 +84,23 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located along KY‑715 in the Rogers community, this station sits on the scenic loop that connects Slade, Pine Ridge, and the eastern side of the Gorge—making it a convenient stop for travelers exploring the 715 corridor.",
+                "Parking is simple and accessible, with a paved lot offering easy pull‑in access for cars, small trailers, and quick fuel or snack stops.  ",
+                "Reliable fuel and convenience store essentials, including drinks, snacks, ice, and basic travel items—especially useful in an area where services become sparse the farther you travel along 715.  ",
+                "Popular with climbers and backroad explorers, thanks to its proximity to key climbing areas, backcountry pull‑offs, and lesser‑traveled routes toward Tarr Ridge and the eastern Gorge.  ",
+                "A quiet, low‑traffic alternative to the busy Slade stations, offering a calmer stop for refueling before or after a day in the Gorge."
+            ]
         },
         {
             "Title": "Kroger Fuel Center",
-            "Summary": "",
+            "Summary": "Reliable, competitively priced gas with the added benefit of Kroger fuel point discounts. Its spacious layout and easy access to the main Kroger store make it a perfect one‑stop location for fueling up and grabbing supplies before heading into the Red River Gorge. ",
             "Phone": "(606)663-0161",
             "Address": "179 W College Ave, Stanton, KY 40380 ",
             "Coords": "",
             "Email": "",
+            "Region": "",
             "Website": "https://www.kroger.com/d/fuel-points-program",
             "SocialSite": "",
             "promoLink": "",
@@ -67,7 +108,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located at the entrance of the Kroger shopping complex in Stanton, making it one of the most convenient fuel stops for travelers coming from the Mountain Parkway or stocking up on groceries before heading into the Gorge.",
+                "Parking is wide and easy to navigate, with multiple fueling lanes and open space around the pumps for smooth pull‑ins, trailers, and larger vehicles.  ",
+                "Offers competitive fuel prices, especially for Kroger Plus Card users who can redeem fuel points for discounts—useful for frequent Gorge visitors or those doing a big grocery run.  ",
+                "Ideal for pre‑trip supply runs, with immediate access to the full Kroger supermarket, pharmacy, and nearby retail options.  ",
+                "Located only 10–12 minutes from Slade, making it a practical fuel stop before entering the more rural sections of the Gorge where stations are limited."
+            ]
         }
     ]
 }

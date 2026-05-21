@@ -2,16 +2,17 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Contacts/Kiosk%20File_Historical.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-12T02:57:22Z"
+        "lastUpdated": "2026-05-21T02:34:00Z"
     },
     "kiosk": [
         {
             "Title": "Red River Museum ",
-            "Summary": "A local history museum in Clay City, housed in the former Clay City National Bank building (built in 1890), featuring exhibits on Powell County’s heritage.",
+            "Summary": "Red River Museum preserves the cultural and historical story of Powell County inside the beautifully maintained 1890 Clay City National Bank building. Visitors can explore exhibits on Native American history, early settlement, railroads, and local industry, offering a rich look at the region’s past.",
             "Phone": "",
             "Address": "4541 Main St, Clay City, KY 40312",
             "Coords": "",
             "Email": "",
+            "Region": "Clay City",
             "Website": "",
             "SocialSite": "https://www.facebook.com/profile.php?id=100057134303932#",
             "promoLink": "",
@@ -19,7 +20,14 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Located in downtown Clay City along Main Street, the museum sits just minutes from the Mountain Parkway and serves as one of the closest historical stops for visitors entering the Red River Gorge region from the west.",
+                "Parking is available along Main Street and beside the building, with easy walk‑up access to the museum’s entrance.",
+                "Features exhibits on Powell County’s heritage, including Native American artifacts, early settlement history, logging and milling, the railroad era, and community life throughout the 19th and 20th centuries.  ",
+                "The building itself is a preserved landmark, originally constructed in 1890 as the Clay City National Bank, adding architectural and historical value to the visitor experience.  ",
+                "A meaningful cultural stop for travelers wanting to understand the deeper history of the Red River Valley beyond its outdoor recreation."
+            ]
         },
         {
             "Title": "Wolfe County Historical Museum",
@@ -28,6 +36,7 @@
             "Address": "235 Main St, Campton, KY 41301",
             "Coords": "",
             "Email": "",
+            "Region": "",
             "Website": "",
             "SocialSite": "",
             "promoLink": "",
