@@ -2,16 +2,17 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Classifieds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-13T00:52:29Z"
+        "lastUpdated": "2026-05-21T04:01:00Z"
     },
     "kiosk": [
         {
             "Title": "Have Something to Sell?",
-            "Summary": "To submit information for a new listing, contact us for more details.",
+            "Summary": "To submit information for a new listing, contact us to get started.",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
+            "Region": "",
             "Website": "www.RedRiverRecreations.com",
             "SocialSite": "www.ko-fi.com/TheRedDeveloper",
             "promoLink": "",
