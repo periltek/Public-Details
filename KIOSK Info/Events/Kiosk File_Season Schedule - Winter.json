@@ -2,12 +2,12 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Classifieds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-21T04:01:00Z"
+        "lastUpdated": "2026-06-06T03:47:10Z"
     },
     "kiosk": [
         {
-            "Title": "Have Something to Sell?",
-            "Summary": "To submit information for a new listing, contact us to get started.",
+            "Title": "Winter Wonders",
+            "Summary": "Updates are on the way. If you’d like your listing included, email us to ensure accuracy and placement.",
             "Phone": "",
             "Address": "",
             "Coords": "",

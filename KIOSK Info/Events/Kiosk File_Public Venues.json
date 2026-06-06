@@ -2,20 +2,25 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2025-12-08T20:10:03Z"
+        "lastUpdated": "2026-06-06T03:53:17Z"
     },
     "kiosk": [
         {
-            "Title": "Test Kiosk Entry",
-            "Description": "Test",
-            "MoreInfo": "Test Kiosk Entry Only. Please dis-regard this test",
+            "Title": "Public Venues",
+            "Summary": "Updates are on the way. If you’d like your listing included, email us to ensure accuracy and placement.",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "",
+            "Region": "",
             "Website": "",
             "SocialSite": "www.ko-fi.com/TheRedDeveloper",
-            "ImageLinks": []
+            "promoLink": "",
+            "docDescription": "",
+            "docLabel": "",
+            "ImageLinks": [],
+            "RadioArray": [],
+            "Facts": []
         }
     ]
 }

@@ -2,16 +2,17 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-13T01:06:51Z"
+        "lastUpdated": "2026-06-06T04:00:19Z"
     },
     "kiosk": [
         {
-            "Title": "Updates Pending",
-            "Summary": "We're still compiling details for our Events registry. To submit information for a new event, please contact us to learn more.",
+            "Title": "Updates Coming Soon",
+            "Summary": "Updates are on the way. If you’d like your listing included, email us to ensure accuracy and placement.",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
+            "Region": "",
             "Website": "www.RedRiverRecreations.com",
             "SocialSite": "www.ko-fi.com/TheRedDeveloper",
             "promoLink": "",

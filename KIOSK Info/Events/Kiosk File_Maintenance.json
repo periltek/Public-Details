@@ -2,16 +2,17 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Classifieds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-13T01:08:03Z"
+        "lastUpdated": "2026-06-06T03:58:19Z"
     },
     "kiosk": [
         {
-            "Title": "Submit a new deal or discount",
-            "Summary": "To submit information for a new deal/promo, please contact us to learn more.",
+            "Title": "Scheduled Maintenance - June 28th - 3 am",
+            "Summary": "An update has been scheduled, June 28th to introduce new listings, updates to old features, bux fixes & more. During this time, users may experience various issues when trying to update the apps resources. ",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
+            "Region": "",
             "Website": "www.RedRiverRecreations.com",
             "SocialSite": "www.ko-fi.com/TheRedDeveloper",
             "promoLink": "",
@@ -19,7 +20,10 @@
             "docLabel": "",
             "ImageLinks": [],
             "RadioArray": [],
-            "Facts": []
+            "Facts": [
+                "",
+                "Users are encouraged to avoid using the app for 2 hours after updating."
+            ]
         }
     ]
 }

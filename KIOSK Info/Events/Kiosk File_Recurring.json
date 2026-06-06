@@ -2,16 +2,17 @@
     "meta": {
         "primaryUrl": "",
         "fallbackUrl": "",
-        "lastUpdated": "2026-05-13T01:16:07Z"
+        "lastUpdated": "2026-06-06T03:51:16Z"
     },
     "kiosk": [
         {
-            "Title": "Have property for rent or sale?",
-            "Summary": "To submit information for a new listing, please contact us to learn more.",
+            "Title": "Submit a Listing",
+            "Summary": "Updates are on the way. If you’d like your listing included, email us to ensure accuracy and placement.",
             "Phone": "",
             "Address": "",
             "Coords": "",
             "Email": "AppSupport@RedRiverRecreations.com",
+            "Region": "",
             "Website": "www.RedRiverRecreations.com",
             "SocialSite": "www.ko-fi.com/TheRedDeveloper",
             "promoLink": "",
