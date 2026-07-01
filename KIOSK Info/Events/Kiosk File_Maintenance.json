@@ -2,11 +2,11 @@
     "meta": {
         "primaryUrl": "https://raw.githubusercontent.com/periltek/Public-Details/refs/heads/main/KIOSK%20Info/Bulletins/Kiosk%20File_Classifieds.json",
         "fallbackUrl": "",
-        "lastUpdated": "2026-06-06T03:58:19Z"
+        "lastUpdated": "2026-07-01T03:04:25Z"
     },
     "kiosk": [
         {
-            "Title": "Scheduled Maintenance - June 28th - 3 am",
+            "Title": "Scheduled Maintenance - July 28th - 3 am",
             "Summary": "An update has been scheduled, June 28th to introduce new listings, updates to old features, bux fixes & more. During this time, users may experience various issues when trying to update the apps resources. ",
             "Phone": "",
             "Address": "",
