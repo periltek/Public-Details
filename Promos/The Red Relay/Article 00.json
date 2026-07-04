@@ -1,13 +1,11 @@
 {
-    "chapterID": "chapter_001",
-    "title": "Welcome to The Red",
-    "description": "Welcome to the Red River Gorge companion app. This chapter introduces visitors to the region and highlights important information before exploring.",
-    "jumpLink": "https://redriverrecreations.com",
-    "background": "https://myalbum.com/path/to/background.png",
-
-    "enabled": true,
-    "priority": 0,
-
-    "startDate": "",
-    "endDate": ""
+  "chapterID": "CH01",
+  "title": "My Remote Title",
+  "description": "Remote description here.",
+  "jumpLink": "https://example.com",
+  "background": "https://raw.githubusercontent.com/.../image.png",
+  "enabled": true,
+  "priority": 0,
+  "startDate": "",
+  "endDate": ""
 }
