@@ -1,0 +1,11 @@
+{
+  "title": "Welcome to The Red",
+  "description": "The Red River Gorge Visitor App has received new updates. Tap below to learn more.",
+  "buttonText": "Learn More",
+  "jumpLink": "https://www.facebook.com/TheRedMobile",
+  "background": "",
+  "enabled": true,
+  "priority": 0,
+  "startDate": "",
+  "endDate": ""
+}
