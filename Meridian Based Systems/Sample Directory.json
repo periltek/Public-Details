@@ -1,0 +1,54 @@
+{
+  "kiosk": [
+    {
+      "Title": "Northbridge Coffee Roasters",
+      "Summary": "Small‑batch roastery offering artisan blends and seasonal brews.",
+      "Phone": "555-0198",
+      "Email": "hello@northbridgecoffee.fake",
+      "Address": "214 Brewline Ave, Northbridge",
+      "Coords": "37.9212,-83.2541",
+      "PrimarySite": "https://northbridgecoffee.fake",
+      "SocialSite": "https://social.fake/northbridgecoffee",
+      "PromoSite": "https://promo.fake/northbridgecoffee",
+      "Facts": [
+        "Roasts every Tuesday and Friday",
+        "Offers a rotating single‑origin spotlight",
+        "Hosts monthly latte‑art throwdowns"
+      ]
+    },
+
+    {
+      "Title": "Skyline Outdoor Gear",
+      "Summary": "Adventure outfitter specializing in ultralight hiking equipment.",
+      "Phone": "555-4421",
+      "Email": "support@skylinegear.fake",
+      "Address": "88 Ridgecrest Loop, Summit District",
+      "Coords": "37.9277,-83.2614",
+      "PrimarySite": "https://skylinegear.fake",
+      "SocialSite": "https://social.fake/skylinegear",
+      "PromoSite": "https://promo.fake/skylinegear",
+      "Facts": [
+        "Carries exclusive Summit‑Series packs",
+        "Offers free weekend gear‑fit consultations",
+        "Hosts quarterly wilderness survival workshops"
+      ]
+    },
+
+    {
+      "Title": "Aurora Techworks",
+      "Summary": "Local tech lab providing device repair, prototyping, and maker‑space access.",
+      "Phone": "555-7712",
+      "Email": "contact@auroratech.fake",
+      "Address": "12 Circuit Plaza, Innovation Park",
+      "Coords": "37.9154,-83.2499",
+      "PrimarySite": "https://auroratech.fake",
+      "SocialSite": "https://social.fake/auroratech",
+      "PromoSite": "https://promo.fake/auroratech",
+      "Facts": [
+        "3D printing available for members",
+        "Offers rapid PCB prototyping",
+        "Hosts weekly robotics open‑lab nights"
+      ]
+    }
+  ]
+}
